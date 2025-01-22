@@ -40,6 +40,6 @@ export default defineConfig({
 			},
 		},
 	},
-	site: 'https://site.com',
+	site: 'https://jaecoo.alexsab.ru',
 	base: "/"
 });
