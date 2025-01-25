@@ -1,19 +1,19 @@
 import { phoneFormat } from '@/js/utils/numbers.format';
 import { LAST_DAY, MONTH, YEAR } from '@/js/utils/date';
 // Название сайта по умолчанию
-export const SITE_NAME = 'Название сайта';
+export const SITE_NAME = 'ТОН-АВТО';
 // Юр лицо
-export const LEGAL_ENTITY = 'ООО «Юридическое название»';
+export const LEGAL_ENTITY = 'ООО «АвтоР»';
 // ИНН
-export const LEGAL_INN = '1234567890';
+export const LEGAL_INN = '7327057470';
 // Город
-export const LEGAL_CITY = 'г. Город';
+export const LEGAL_CITY = 'г. Ульяновск';
 // где? в Городе
-export const LEGAL_CITY_WHERE = 'Городе';
+export const LEGAL_CITY_WHERE = 'Ульяновске';
 // Описание сайта по умолчанию
 export const SITE_DESCR = 'Официальный дилерский центр';
 // Телефон по умолчанию
-export const PHONE = '+7 (999) 000-00-00';
+export const PHONE = '+7 (8422) 28-36-73';
 // Бренд
 export const BRAND = 'JAECOO';
 // Конечное время для таймера
@@ -24,7 +24,7 @@ export const MARQUEE = {title: 'Тотальная распродажа до', d
 // Ссылка яндекс-виджета
 export const LINK_WIDGET = 'https://yandex.ru/map-widget/v1/-/';
 // Ссылка организации для виджета
-export const LINK_WIDGET_ORGNIZATION = '';
+export const LINK_WIDGET_ORGNIZATION = 'CHaDRDYv';
 // Ссылки под хедером
 export const LINKS_MENU = [
 	{url: 'cars/', name: 'Авто в наличии'},
