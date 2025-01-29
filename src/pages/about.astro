@@ -1,84 +1,75 @@
 ---
-import Layout from '@/layouts/Layout.astro';
+import PageLayout from '@/layouts/PageLayout.astro';
 import Button from '@/components/Button/Button.astro';
 import { SITE_NAME, BRAND, LEGAL_CITY, LEGAL_CITY_WHERE } from '@/const';
 ---
 
-<Layout title={`${SITE_NAME} ${LEGAL_CITY} — Бренд`} description={`Официальный дилер ${BRAND} в ${LEGAL_CITY_WHERE}. На сайте Вы можете подобрать и купить автомобиль JAECOO.`}>
+<PageLayout 
+	h1="О бренде"
+	title={`${SITE_NAME} ${LEGAL_CITY} — О бренде`} 
+	description={`Официальный дилер ${BRAND} в ${LEGAL_CITY_WHERE}. На сайте Вы можете подобрать и купить автомобиль JAECOO.`}
+	breadcrumb={[{name:"О бренде",href:""}]}
+>
 	<section>
-		<div class="container">
-			<h1 class="text-3xl sm:text-5xl font-bold mb-10 lg:mb-20">Бренд</h1>
-
-			<div class="flex flex-col-reverse lg:flex-row bg-gray-100">
-				<div class="lg:w-1/2 px-5 py-7 lg:p-10 xl:py-12 xl:px-16 lg:text-lg space-y-3">
-					<h2 class="simple-title text-2xl font-bold mb-6 sm:mb-8">О бренде</h2>
-					<p>Название JAECOO («Джейку́») образовано от немецкого слова Jaeger («охотник») и английского Cool («крутой»).</p>
-					<p>Охотник символизирует Скорость, Ловкость, Дикую природу и Страсть. Он сосредоточен на своей цели, Он сохраняет спокойствие, Он самодостаточен, обладает изысканным стилем и утонченным вкусом.</p>
-					<p>JAECOO — больше, чем автомобиль. Это верный помощник, с которым ты можешь реализовать задуманное. Надежный проводник в мир тех, с кем тебе точно по пути. И мощный навигатор, позволяющий исследовать мир возможностей на максимум. JAECOO помогает жить в разных режимах настоящего, получая бесценное удовольствие быть настоящим — во всем. Он — твой компаньон, активирующий жизненную силу и все возможности текущего момента. Думаешь, такого не бывает? Но вот же он, прямо перед тобой… JAECOO. ЭТО ПО-НАСТОЯЩЕМУ!</p>
-				</div>
-				<div class="lg:w-1/2">
-					<picture>
-						<source srcset="https://jaecoo.ru/J8_720x488px_new_9568771909340324679_hu04b33814dddbdadd67659a615a70dda8_0_720x0_resize_q80_lanczos_1.gif" media="(min-width: 320px)">
-						<source srcset="https://jaecoo.ru/J8_720x488px_new_9568771909340324679_hu04b33814dddbdadd67659a615a70dda8_0_450x0_resize_q80_lanczos_1.gif, https://jaecoo.ru/J8_720x488px_new_9568771909340324679_hu04b33814dddbdadd67659a615a70dda8_0_900x0_resize_q80_lanczos_1.gif 2x">
-						<img src="https://jaecoo.ru/J8_720x488px_new_9568771909340324679_hu04b33814dddbdadd67659a615a70dda8_0_720x0_resize_q80_lanczos_1.gif" class="w-full h-full object-cover object-center" alt="" loading="lazy">
-					</picture>
-				</div>
+		<div class="flex flex-col-reverse lg:flex-row bg-gray-100">
+			<div class="lg:w-1/2 px-5 py-7 lg:p-10 xl:py-12 xl:px-16 lg:text-lg space-y-3">
+				<h2 class="sr-only simple-title">О бренде</h2>
+				<p>Название JAECOO («Джейку́») образовано от немецкого слова Jaeger («охотник») и английского Cool («крутой»).</p>
+				<p>Охотник символизирует Скорость, Ловкость, Дикую природу и Страсть. Он сосредоточен на своей цели, Он сохраняет спокойствие, Он самодостаточен, обладает изысканным стилем и утонченным вкусом.</p>
+				<p>JAECOO — больше, чем автомобиль. Это верный помощник, с которым ты можешь реализовать задуманное. Надежный проводник в мир тех, с кем тебе точно по пути. И мощный навигатор, позволяющий исследовать мир возможностей на максимум. JAECOO помогает жить в разных режимах настоящего, получая бесценное удовольствие быть настоящим — во всем. Он — твой компаньон, активирующий жизненную силу и все возможности текущего момента. Думаешь, такого не бывает? Но вот же он, прямо перед тобой… JAECOO. ЭТО ПО-НАСТОЯЩЕМУ!</p>
 			</div>
-
+			<div class="lg:w-1/2">
+				<picture>
+					<source srcset="https://jaecoo.ru/J8_720x488px_new_9568771909340324679_hu04b33814dddbdadd67659a615a70dda8_0_720x0_resize_q80_lanczos_1.gif" media="(min-width: 320px)">
+					<source srcset="https://jaecoo.ru/J8_720x488px_new_9568771909340324679_hu04b33814dddbdadd67659a615a70dda8_0_450x0_resize_q80_lanczos_1.gif, https://jaecoo.ru/J8_720x488px_new_9568771909340324679_hu04b33814dddbdadd67659a615a70dda8_0_900x0_resize_q80_lanczos_1.gif 2x">
+					<img src="https://jaecoo.ru/J8_720x488px_new_9568771909340324679_hu04b33814dddbdadd67659a615a70dda8_0_720x0_resize_q80_lanczos_1.gif" class="w-full h-full object-cover object-center" alt="" loading="lazy">
+				</picture>
+			</div>
 		</div>
 	</section>
 	<section>
-		<div class="container">
-			<div class="flex flex-col-reverse lg:flex-row-reverse bg-gray-100">
-				<div class="lg:w-1/2 px-5 py-7 lg:p-10 xl:py-12 xl:px-16 lg:text-lg space-y-3">
-					<h2 class="simple-title text-2xl font-bold mb-6 sm:mb-8 uppercase">J-SYSTEM</h2>
-					<Button url="#" classes="" title="Узнать больше" />
-				</div>
-				<div class="lg:w-1/2">
-					<picture>
-						<source srcset="/img/about/1_720.webp, /img/about/1_1440.webp 2x" media="(min-width: 320px)">
-						<source srcset="/img/about/1_450.webp, /img/about/1_900.webp 2x">
-						<img src="/img/about/1_720.webp" class="w-full h-full object-cover object-center" alt="J-SYSTEM" loading="lazy">
-					</picture>
-				</div>
+		<div class="flex flex-col-reverse lg:flex-row-reverse bg-gray-100">
+			<div class="lg:w-1/2 px-5 py-7 lg:p-10 xl:py-12 xl:px-16 lg:text-lg space-y-3">
+				<h2 class="simple-title text-2xl font-bold mb-6 sm:mb-8 uppercase">J-SYSTEM</h2>
+				<Button url="#" classes="" title="Узнать больше" />
 			</div>
-
+			<div class="lg:w-1/2">
+				<picture>
+					<source srcset="/img/about/1_720.webp, /img/about/1_1440.webp 2x" media="(min-width: 320px)">
+					<source srcset="/img/about/1_450.webp, /img/about/1_900.webp 2x">
+					<img src="/img/about/1_720.webp" class="w-full h-full object-cover object-center" alt="J-SYSTEM" loading="lazy">
+				</picture>
+			</div>
 		</div>
 	</section>
 	<section>
-		<div class="container">
-			<div class="flex flex-col-reverse lg:flex-row bg-gray-100">
-				<div class="lg:w-1/2 px-5 py-7 lg:p-10 xl:py-12 xl:px-16 lg:text-lg space-y-3">
-					<h2 class="simple-title text-2xl font-bold mb-6 sm:mb-8 uppercase">Новости</h2>
-					<Button url="/news/" classes="" title="Узнать больше" />
-				</div>
-				<div class="lg:w-1/2">
-					<picture>
-						<source srcset="/img/about/2_720.webp, /img/about/2_1440.webp 2x" media="(min-width: 320px)">
-						<source srcset="/img/about/2_450.webp, /img/about/2_900.webp 2x">
-						<img src="/img/about/2_720.webp" class="w-full h-full object-cover object-center" alt="Новости" loading="lazy">
-					</picture>
-				</div>
+		<div class="flex flex-col-reverse lg:flex-row bg-gray-100">
+			<div class="lg:w-1/2 px-5 py-7 lg:p-10 xl:py-12 xl:px-16 lg:text-lg space-y-3">
+				<h2 class="simple-title text-2xl font-bold mb-6 sm:mb-8 uppercase">Новости</h2>
+				<Button url="/news/" classes="" title="Узнать больше" />
 			</div>
-
+			<div class="lg:w-1/2">
+				<picture>
+					<source srcset="/img/about/2_720.webp, /img/about/2_1440.webp 2x" media="(min-width: 320px)">
+					<source srcset="/img/about/2_450.webp, /img/about/2_900.webp 2x">
+					<img src="/img/about/2_720.webp" class="w-full h-full object-cover object-center" alt="Новости" loading="lazy">
+				</picture>
+			</div>
 		</div>
 	</section>
 	<section>
-		<div class="container">
-			<div class="flex flex-col-reverse lg:flex-row-reverse bg-gray-100">
-				<div class="lg:w-1/2 px-5 py-7 lg:p-10 xl:py-12 xl:px-16 lg:text-lg space-y-3">
-					<h2 class="simple-title text-2xl font-bold mb-6 sm:mb-8 uppercase">ПРАВОВАЯ ИНФОРМАЦИЯ</h2>
-					<Button url="#" classes="" title="Узнать больше" />
-				</div>
-				<div class="lg:w-1/2">
-					<picture>
-						<source srcset="/img/about/3_720.webp, /img/about/3_1440.webp 2x" media="(min-width: 320px)">
-						<source srcset="/img/about/3_450.webp, /img/about/3_900.webp 2x">
-						<img src="/img/about/3_720.webp" class="w-full h-full object-cover object-center" alt="ПРАВОВАЯ ИНФОРМАЦИЯ" loading="lazy">
-					</picture>
-				</div>
+		<div class="flex flex-col-reverse lg:flex-row-reverse bg-gray-100">
+			<div class="lg:w-1/2 px-5 py-7 lg:p-10 xl:py-12 xl:px-16 lg:text-lg space-y-3">
+				<h2 class="simple-title text-2xl font-bold mb-6 sm:mb-8 uppercase">ПРАВОВАЯ ИНФОРМАЦИЯ</h2>
+				<Button url="/terms-conditions/" classes="" title="Узнать больше" />
 			</div>
-
+			<div class="lg:w-1/2">
+				<picture>
+					<source srcset="/img/about/3_720.webp, /img/about/3_1440.webp 2x" media="(min-width: 320px)">
+					<source srcset="/img/about/3_450.webp, /img/about/3_900.webp 2x">
+					<img src="/img/about/3_720.webp" class="w-full h-full object-cover object-center" alt="ПРАВОВАЯ ИНФОРМАЦИЯ" loading="lazy">
+				</picture>
+			</div>
 		</div>
 	</section>
-</Layout>
+</PageLayout>
