@@ -1,0 +1,17 @@
+---
+import PageLayout from '@/layouts/PageLayout.astro';
+import Button from '@/components/Button/Button.astro';
+import { SITE_NAME, BRAND, LEGAL_CITY, LEGAL_CITY_WHERE, LEGAL_ENTITY } from '@/const';
+---
+
+<PageLayout 
+	h1="Правовая информация"
+	title={`${SITE_NAME} ${LEGAL_CITY} — Правовая информация`} 
+	description={`Официальный дилер ${BRAND} в ${LEGAL_CITY_WHERE}. На сайте Вы можете подобрать и купить автомобиль JAECOO.`}
+	breadcrumb={[{name:"Правовая информация",href:""}]}
+>
+	<div class="space-y-3">
+		<p><a href="/privacy-policy/">{`Политика ${LEGAL_ENTITY} в отношении обработки персональных данных`}</a></p>
+		<p><a href="/requisites/">{`Реквизиты ${LEGAL_ENTITY}`}</a></p>
+	</div>
+</PageLayout>
