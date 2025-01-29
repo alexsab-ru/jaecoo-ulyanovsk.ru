@@ -1,0 +1,30 @@
+---
+import PageLayout from '@/layouts/PageLayout.astro';
+import Button from '@/components/Button/Button.astro';
+import { SITE_NAME, BRAND, LEGAL_CITY, LEGAL_CITY_WHERE, LEGAL_ENTITY } from '@/const';
+---
+
+<PageLayout 
+	h1="Реквизиты"
+	title={`${SITE_NAME} ${LEGAL_CITY} — Реквизиты`} 
+	description={`Официальный дилер ${BRAND} в ${LEGAL_CITY_WHERE}. На сайте Вы можете подобрать и купить автомобиль JAECOO.`}
+	breadcrumb={[{name:"Реквизиты",href:""}]}
+>
+	<div class="space-y-3">                
+		<p><strong>Юридическое название</strong> АвтоР</p>
+		<p><strong>Полное название</strong> Общество с ограниченной ответственностью «АвтоР»</p>
+		<p><strong>ФИО руководителя</strong> Курылин Александр Иванович</p>
+		<p><strong>Должность руководителя</strong> директор</p>
+		<p><strong>Действующий на основании (устава, доверенности)</strong> Устава</p>
+		<p><strong>Юридический адрес</strong> 445043, Самарская обл., Тольятти г, Воскресенская ул., д. 16, строение 1</p>
+		<p><strong>Почтовый адрес</strong> 432071, РФ, Ульяновская обл., г. Ульяновск, ул. Урицкого, дом 45, офис 1</p>
+		<p><strong>ФИО адресата (кто получит письмо)</strong> Прусакова Наталья Александровна</p>
+		<p><strong>ОГРН</strong> ОГРН 1107327005312</p>
+		<p><strong>ИНН</strong> ИНН 7327057470</p>
+		<p><strong>КПП</strong> КПП 632101001</p>
+		<p><strong>Банк</strong> ВТБ (ПАО) г. Москва</p>
+		<p><strong>БИК банка</strong> БИК 44525411</p>
+		<p><strong>Расчетный счет</strong> 40702810511240000000</p>
+		<p><strong>Корреспондетский счет</strong> 30101810145250000411</p>
+	</div>
+</PageLayout>
