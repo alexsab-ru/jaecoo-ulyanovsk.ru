@@ -1404,5 +1404,138 @@ model_mapping = {
                 "Белый": "white.webp",
             }
         },
+    },
+    "Omoda": {
+        "C5, I": {
+            "folder": "c5",
+            "cyrillic": "ЦЕ 5",
+            "color": {
+                "Black": "black.webp",
+                "Черный": "black.webp",
+                "Dark-blue": "dark-blue.webp",
+                "Темно-синий": "dark-blue.webp",
+                "Синий": "dark-blue.webp",
+                "Gray": "gray.webp",
+                "Серый": "gray.webp",
+                "Green": "green.webp",
+                "Зеленый": "green.webp",
+                "Red": "red.webp",
+                "Красный": "red.webp",
+                "Silver": "silver.webp",
+                "Серебряный": "silver.webp",
+                "Vanila Blue": "vanila-blue.webp",
+                "Ванильный синий": "vanila-blue.webp",
+                "White": "white.webp",
+                "Белый": "white.webp"
+            }
+        },
+        "C5, I Рестайлинг": {
+            "folder": "c5fl",
+            "cyrillic": "ЦЕ 5 ЭФ ЭЛ",
+            "color": {
+                "Black": "black.webp",
+                "Черный": "black.webp",
+                "Blue": "blue.webp",
+                "Синий": "blue.webp",
+                "Gray": "gray.webp",
+                "Серый": "gray.webp",
+                "Red": "red.webp",
+                "Красный": "red.webp",
+                "Silver-black": "silver-black.webp",
+                "Серебряный-чёрный": "silver-black.webp",
+                "Silver": "silver.webp",
+                "Серебряный": "silver.webp",
+                "White-black": "white-black.webp",
+                "Белый-чёрный": "white-black.webp",
+                "White": "white.webp",
+                "Белый": "white.webp"
+            }
+        },
+        "S5": {
+            "folder": "s5",
+            "cyrillic": "ЭС 5",
+            "color": {
+                "Black": "black.webp",
+                "Черный": "black.webp",
+                "Blue": "blue.webp",
+                "Синий": "blue.webp",
+                "Gray": "gray.webp",
+                "Серый": "gray.webp",
+                "Red": "red.webp",
+                "Красный": "red.webp",
+                "Steel": "steel.webp",
+                "Стальной": "steel.webp",
+                "White": "white.webp",
+                "Белый": "white.webp"
+            }
+        },
+        "S5 GT": {
+            "folder": "s5gt",
+            "cyrillic": "ЭС 5 ДЖЕЙ ТИ",
+            "color": {
+                "Black": "black.webp",
+                "Черный": "black.webp",
+                "Blue": "blue.webp",
+                "Синий": "blue.webp",
+                "Gray": "gray.webp",
+                "Серый": "gray.webp",
+                "Green": "green.webp",
+                "Зеленый": "green.webp",
+                "Red": "red.webp",
+                "Красный": "red.webp",
+                "Steel": "steel.webp",
+                "Стальной": "steel.webp",
+                "White": "white.webp",
+                "Белый": "white.webp"
+            }
+        }
+    },
+    "Jaecoo": {
+        "J7": {
+            "folder": "j7",
+            "cyrillic": "Джей 7",
+            "color": {
+                "Black": "black.webp",
+                "Черный": "black.webp",
+                "Gray-blue-black": "gray-blue-black.webp",
+                "Серо-голубой-черный": "gray-blue-black.webp",
+                "Gray-blue": "gray-blue.webp",
+                "Серо-голубой": "gray-blue.webp",
+                "Green-black": "green-black.webp",
+                "Зеленый-черный": "green-black.webp",
+                "Green": "green.webp",
+                "Зеленый": "green.webp",
+                "Silver-black": "silver-black.webp",
+                "Серебристо-черный": "silver-black.webp",
+                "Silver": "silver.webp",
+                "Серебряный": "silver.webp",
+                "White": "white.webp",
+                "Белый": "white.webp",
+            }
+        },
+        "J8": {
+            "folder": "j8",
+            "cyrillic": "Джей 8",
+            "color": {
+                "Black": "black.webp",
+                "Черный": "black.webp",
+                "Dark-gray-black": "dark-gray-black.webp",
+                "Темно-серый-черный": "dark-gray-black.webp",
+                "Dark-gray": "dark-gray.webp",
+                "Темно-серый": "dark-gray.webp",
+                "Gray-black": "gray-black.webp",
+                "Серый-черный": "gray-black.webp",
+                "Gray-blue-black": "gray-blue-black.webp",
+                "Серо-голубой-черный": "gray-blue-black.webp",
+                "Gray-blue": "gray-blue.webp",
+                "Серо-голубой": "gray-blue.webp",
+                "Gray": "gray.webp",
+                "Серый": "gray.webp",
+                "White-black": "white-black.webp",
+                "Белый-черный": "white-black.webp",
+                "White": "white.webp",
+                "Белый": "white.webp",
+            }
+        },
     }
 }
