@@ -1,0 +1,44 @@
+---
+h1: Бонус для новых клиентов ‑ скидка 50%!
+title: Бонус для новых клиентов ‑ скидка 50%
+caption: Бонус для новых клиентов ‑ скидка 50%
+breadcrumb: Бонус для новых клиентов
+image: /img/specials/bonus-dlya-novyh-klientov-skidka-50/thumb.webp
+description: "Вы владелец JAECOO и ни разу не были на сервисе в Тон-Авто Ульяновск?! Предлагаем исправить это! Для Вас приветственный бонус: Выгода  50% на услуги (работы)"
+slug: bonus-dlya-novyh-klientov-skidka-50
+category: "Сервисные акции"
+---
+import Button from '@/components/Button/Button.astro';
+import SpecialSalonsInfo from '@/components/SpecialSalonsInfo.astro';
+import { SITE_NAME, PHONE } from '@/const';
+import { phoneFormat } from '@/js/utils/numbers.format';
+import { LAST_DAY, MONTH, MONTH_NOMINATIVE, MONTH_GENITIVE, MONTH_PREPOSITIONAL, YEAR } from '@/js/utils/date';
+
+export const dateFrom = '01.07.2024';
+export const dateTo = `${LAST_DAY}.${MONTH}.${YEAR}`;
+export const dateToGenitive = `${LAST_DAY} ${MONTH_GENITIVE} ${YEAR}`;
+export const dateToPrepositional = `${MONTH_PREPOSITIONAL} ${YEAR}`;
+
+<picture>
+	<source media="(min-width: 640px)" srcset="/img/specials/bonus-dlya-novyh-klientov-skidka-50/banner.webp" />
+	<source media="(min-width: 320px)" srcset="/img/specials/bonus-dlya-novyh-klientov-skidka-50/thumb.webp" />
+	<img src="/img/specials/bonus-dlya-novyh-klientov-skidka-50/banner.webp" class="w-full mb-10" alt="Бонус для новых клиентов" />
+</picture>
+
+### **Для Вас приветственный бонус!**
+
+### **Вы владелец JAECOO и ни разу не были на сервисе в Тон-Авто Ульяновск<sup>*</sup>?!**
+
+Предлагаем исправить это! Для Вас **приветственный** бонус:
+
+- Выгода **50% на услуги (работы)**
+
+Скидка предоставляется единоразово, не суммируется с другими акциями и выгодами, и предоставляется только новым клиентам, ни разу не посещавшим официальный сервисный центр JAECOO Тон-Авто.
+
+**Оригинальные запасные части в наличии❗**
+
+Ждём Вас в JAECOO Тон-Авто!
+
+> <sup>*</sup>Чтобы воспользоваться специальной ценой сообщите об этом ассистенту-сервиса при планировании заезда на сервис.
+
+<SpecialSalonsInfo dataFormName="Узнать подробнее. Бонус для новых клиентов ‑ скидка 50%" />
