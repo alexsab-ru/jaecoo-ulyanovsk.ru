@@ -1,0 +1,46 @@
+---
+h1: Шиномонтаж в Сервисном Центре JAECOO от 900 рублей❗
+title: Шиномонтаж от 900 рублей
+caption: Шиномонтаж от 900 рублей
+breadcrumb: Шиномонтаж
+image: /img/specials/shinomontazh-ot-900-rubley/thumb.webp
+description: "Шиномонтаж в Сервисном Центре JAECOO от 900 рублей❗Сезонное хранение шин на 6 месяцев 1000 рублей❗"
+slug: shinomontazh-ot-900-rubley
+category: "Сервисные акции"
+---
+import Button from '@/components/Button/Button.astro';
+import SpecialSalonsInfo from '@/components/SpecialSalonsInfo.astro';
+import { SITE_NAME, PHONE } from '@/const';
+import { phoneFormat } from '@/js/utils/numbers.format';
+import { LAST_DAY, MONTH, MONTH_NOMINATIVE, MONTH_GENITIVE, MONTH_PREPOSITIONAL, YEAR } from '@/js/utils/date';
+
+export const dateFrom = '01.07.2024';
+export const dateTo = `${LAST_DAY}.${MONTH}.${YEAR}`;
+export const dateToGenitive = `${LAST_DAY} ${MONTH_GENITIVE} ${YEAR}`;
+export const dateToPrepositional = `${MONTH_PREPOSITIONAL} ${YEAR}`;
+
+<picture>
+	<source media="(min-width: 640px)" srcset="/img/specials/shinomontazh-ot-900-rubley/banner.webp" />
+	<source media="(min-width: 320px)" srcset="/img/specials/shinomontazh-ot-900-rubley/thumb.webp" />
+	<img src="/img/specials/shinomontazh-ot-900-rubley/banner.webp" class="w-full mb-10" alt="Шиномонтаж" />
+</picture>
+
+**Услуга включает в себя:**
+
+- Технологическую мойку авто;
+- Снятие/ установку колес;
+- Сборку/ разборку колес;
+- Мойку и балансировку колес;
+- Выравнивание давления в шинах;
+
+> <sup>*</sup>Чтобы воспользоваться специальной ценой сообщите об этом ассистенту-сервиса при планировании заезда на сервис.
+
+### **Сезонное хранение шин на 6 месяцев 1000 рублей❗**
+
+Также вы можете воспользоваться услугой **«Шинный отель» от 1000 руб.** - это сезонное хранение шин на все время до следующего периода шиномонтажа в специально подготовленных условиях.
+
+Ждём Вас в JAECOO Тон-Авто!
+
+> Стоимость для вашего автомобиля уточняйте у сервис-консультантов.
+
+<SpecialSalonsInfo dataFormName="Узнать подробнее. Шиномонтаж от 900 рублей" />
