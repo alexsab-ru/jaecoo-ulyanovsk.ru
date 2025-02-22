@@ -1,0 +1,40 @@
+---
+h1: Улучшим любое предложение на сервис от другого Сервисного Центра!
+title: Улучшим любое предложение на сервис от другого Сервисного Центра
+caption: Улучшим любое предложение на сервис от другого Сервисного Центра
+breadcrumb: Улучшим любое предложение на сервис
+image: /img/specials/uluchshim-lyuboe-predlozhenie-na-servis-ot-drugogo-servisnogo-centra/thumb.webp
+description: "Вы получили предложение со стоимостью на работы и запасные части в другом Сервисном Центре? Мы улучшим предложение в день обращения!"
+slug: uluchshim-lyuboe-predlozhenie-na-servis-ot-drugogo-servisnogo-centra
+category: "Сервисные акции"
+---
+import Button from '@/components/Button/Button.astro';
+import SpecialSalonsInfo from '@/components/SpecialSalonsInfo.astro';
+import { SITE_NAME, PHONE } from '@/const';
+import { phoneFormat } from '@/js/utils/numbers.format';
+import { LAST_DAY, MONTH, MONTH_NOMINATIVE, MONTH_GENITIVE, MONTH_PREPOSITIONAL, YEAR } from '@/js/utils/date';
+
+export const dateFrom = '01.07.2024';
+export const dateTo = `${LAST_DAY}.${MONTH}.${YEAR}`;
+export const dateToGenitive = `${LAST_DAY} ${MONTH_GENITIVE} ${YEAR}`;
+export const dateToPrepositional = `${MONTH_PREPOSITIONAL} ${YEAR}`;
+
+### **При наличии заказ-наряда на руках.**
+
+<picture>
+	<source media="(min-width: 640px)" srcset="/img/specials/uluchshim-lyuboe-predlozhenie-na-servis-ot-drugogo-servisnogo-centra/banner.webp" />
+	<source media="(min-width: 320px)" srcset="/img/specials/uluchshim-lyuboe-predlozhenie-na-servis-ot-drugogo-servisnogo-centra/thumb.webp" />
+	<img src="/img/specials/uluchshim-lyuboe-predlozhenie-na-servis-ot-drugogo-servisnogo-centra/banner.webp" class="w-full mb-10" alt="Бонус для новых клиентов" />
+</picture>
+
+**Вы получили предложение со стоимостью на работы и запасные части в другом Сервисном Центре?**
+
+Мы улучшим предложение в день обращения!
+
+При условии предоставления заказ-наряда или предварительного расчета стоимости на Ваш автомобиль.
+
+Ждём Вас в JAECOO Тон-Авто!
+
+> <sup>*</sup>Чтобы принять участие в акции сообщите об этом ассистенту-сервиса при планировании заезда на сервис и покажите сообщение мастеру приемщику при заезде на сервис
+
+<SpecialSalonsInfo dataFormName="Узнать подробнее. Улучшим любое предложение на сервис от другого Сервисного Центра" />
