@@ -1,0 +1,40 @@
+---
+h1: Предложение для иногородних клиентов Тон-Авто
+title: Предложение для иногородних клиентов Тон-Авто
+caption: Предложение для иногородних клиентов Тон-Авто
+breadcrumb: Предложение для иногородних клиентов
+image: /img/specials/predlozhenie-dlya-inogorodnih-klientov-ton-avto/thumb.webp
+description: "Нет причин отказываться от покупки нового JAECOO, даже если он находится в другом городе! Только в Тон-Авто Ульяновск для всех иногородних клиентов действует специальное предложение."
+---
+import Button from '@/components/Button/Button.astro';
+import SpecialSalonsInfo from '@/components/SpecialSalonsInfo.astro';
+import { SITE_NAME, PHONE } from '@/const';
+import { phoneFormat } from '@/js/utils/numbers.format';
+import { LAST_DAY, MONTH, MONTH_NOMINATIVE, MONTH_GENITIVE, MONTH_PREPOSITIONAL, YEAR } from '@/js/utils/date';
+
+export const dateFrom = '01.07.2024';
+export const dateTo = `${LAST_DAY}.${MONTH}.${YEAR}`;
+export const dateToGenitive = `${LAST_DAY} ${MONTH_GENITIVE} ${YEAR}`;
+export const dateToPrepositional = `${MONTH_PREPOSITIONAL} ${YEAR}`;
+
+<picture>
+	<source media="(min-width: 942px)" srcset="/img/specials/predlozhenie-dlya-inogorodnih-klientov-ton-avto/banner.webp" />
+	<source media="(min-width: 320px)" srcset="/img/specials/predlozhenie-dlya-inogorodnih-klientov-ton-avto/banner.webp" />
+	<img src="/img/specials/predlozhenie-dlya-inogorodnih-klientov-ton-avto/banner.webp" class="w-full mb-10" alt="Предложение для иногородних клиентов" />
+</picture>
+
+Нет причин отказываться от покупки нового JAECOO, даже если он находится в другом городе!
+
+Только в Тон-Авто Ульяновск для всех иногородних клиентов действует специальное предложение:
+
+<ul class="list-disc pl-5">
+	<li>Оплата гостиницы (2 персоны, сутки);</li>
+	<li>Компенсация ГСМ;</li>
+	<li>Экскурсия по городу на тестовом автомобиле;</li>
+	<li>Бизнес-ланч на 2 персоны;</li>
+	<li>Помощь в постановке автомобиля на учет в ГИБДД.</li>
+</ul>
+
+«Когда чего-нибудь сильно захочешь, вся Вселенная будет способствовать тому, чтобы желание твое сбылось».
+
+<SpecialSalonsInfo dataFormName="Узнать подробнее. Предложение для иногородних клиентов" />
