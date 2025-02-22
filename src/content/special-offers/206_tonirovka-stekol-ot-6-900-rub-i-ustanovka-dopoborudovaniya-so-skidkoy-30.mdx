@@ -1,0 +1,43 @@
+---
+h1: Тонировка стекол от 6 900 руб. и установка доп.оборудования со скидкой 30%!
+title: Тонировка стекол от 6 900 руб. и установка доп.оборудования со скидкой 30%
+caption: Тонировка стекол от 6 900 руб. и установка доп.оборудования со скидкой 30%
+breadcrumb: Тонировка стекол и установка доп.оборудования
+image: /img/specials/tonirovka-stekol-ot-6-900-rub-i-ustanovka-dopoborudovaniya-so-skidkoy-30/thumb.webp
+description: "Тонировка стекол от 6 900 рублей* *Стоимость указана при оклейке задней полусферы. Скидка до 30% на установку дополнительного оборудования"
+slug: tonirovka-stekol-ot-6-900-rub-i-ustanovka-dopoborudovaniya-so-skidkoy-30
+category: "Сервисные акции"
+---
+import Button from '@/components/Button/Button.astro';
+import SpecialSalonsInfo from '@/components/SpecialSalonsInfo.astro';
+import { SITE_NAME, PHONE } from '@/const';
+import { phoneFormat } from '@/js/utils/numbers.format';
+import { LAST_DAY, MONTH, MONTH_NOMINATIVE, MONTH_GENITIVE, MONTH_PREPOSITIONAL, YEAR } from '@/js/utils/date';
+
+export const dateFrom = '01.07.2024';
+export const dateTo = `${LAST_DAY}.${MONTH}.${YEAR}`;
+export const dateToGenitive = `${LAST_DAY} ${MONTH_GENITIVE} ${YEAR}`;
+export const dateToPrepositional = `${MONTH_PREPOSITIONAL} ${YEAR}`;
+
+<picture>
+	<source media="(min-width: 640px)" srcset="/img/specials/tonirovka-stekol-ot-6-900-rub-i-ustanovka-dopoborudovaniya-so-skidkoy-30/banner.webp" />
+	<source media="(min-width: 320px)" srcset="/img/specials/tonirovka-stekol-ot-6-900-rub-i-ustanovka-dopoborudovaniya-so-skidkoy-30/thumb.webp" />
+	<img src="/img/specials/tonirovka-stekol-ot-6-900-rub-i-ustanovka-dopoborudovaniya-so-skidkoy-30/banner.webp" class="w-full mb-10" alt="Антикоррозийная обработка" />
+</picture>
+
+### **Обновите Ваш автомобиль!**
+
+**В Тон-Авто Ульяновск при записи на сервис действуют специальные предложения:**
+
+- Тонировка стекол от 6 900 рублей<sup>*</sup>
+- Скидка до 30% на установку дополнительного оборудования<sup>**</sup>
+
+Ждём Вас в JAECOO Тон-Авто!
+
+> <sup>*</sup>Стоимость указана при оклейке задней полусферы.
+
+> <sup>**</sup>Перечень ДО уточняйте у ассистентов-сервиса.
+
+> Стоимость для вашего автомобиля уточняйте у сервис-консультантов.
+
+<SpecialSalonsInfo dataFormName="Узнать подробнее. Тонировка стекол и установка доп.оборудования" />
