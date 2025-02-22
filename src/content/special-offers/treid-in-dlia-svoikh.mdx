@@ -1,0 +1,32 @@
+---
+h1: Трейд-ин для своих
+title: Трейд-ин для своих
+caption: Трейд-ин для своих
+breadcrumb: Трейд-ин для своих
+image: /img/specials/treid-in-dlia-svoikh/thumb.webp
+description: "Максимальный размер выгоды потребителя – 275 000 рублей, которая достигается за счет комбинации программы “Выгода при сдаче автомобиля в трейд-ин” и “Трейд-ин для своих”."
+---
+import Button from '@/components/Button/Button.astro';
+import SpecialSalonsInfo from '@/components/SpecialSalonsInfo.astro';
+import { SITE_NAME, PHONE } from '@/const';
+import { phoneFormat } from '@/js/utils/numbers.format';
+import { LAST_DAY, MONTH, MONTH_NOMINATIVE, MONTH_GENITIVE, MONTH_PREPOSITIONAL, YEAR } from '@/js/utils/date';
+
+export const dateFrom = '01.07.2024';
+export const dateTo = `${LAST_DAY}.${MONTH}.${YEAR}`;
+export const dateToGenitive = `${LAST_DAY} ${MONTH_GENITIVE} ${YEAR}`;
+export const dateToPrepositional = `${MONTH_PREPOSITIONAL} ${YEAR}`;
+
+### **Дополнительная выгода!**
+
+<picture>
+	<source media="(min-width: 640px)" srcset="/img/specials/treid-in-dlia-svoikh/banner.webp" />
+	<source media="(min-width: 320px)" srcset="/img/specials/treid-in-dlia-svoikh/thumb.webp" />
+	<img src="/img/specials/treid-in-dlia-svoikh/banner.webp" class="w-full mb-10" alt="Трейд-ин для своих" />
+</picture>
+
+**Еще больше выгоды на покупку моделей <a href="/models/j7/">JAECOO J7</a> или <a href="/models/j8/">JAECOO J8</a>**
+
+Максимальный размер выгоды потребителя – 275 000 рублей, которая достигается за счет комбинации программы “Выгода при сдаче автомобиля в трейд-ин” и “Трейд-ин для своих”. Под скидкой по программе «Трейд-ин» понимается единовременная и разовая выгода потребителю на все комплектации от максимальной цены перепродажи автомобиля, приобретаемого по Программе, при сдаче в зачёт его стоимости принадлежащего потребителю любого автомобиля с пробегом. Условия программы уточняйте у официальных дилеров JAECOO.
+
+<SpecialSalonsInfo dataFormName="Узнать подробнее. Трейд-ин для своих" />
