@@ -1,0 +1,34 @@
+---
+h1: Специальная лизинговая программа JAECOO
+title: Специальная лизинговая программа JAECOO
+caption: Специальная лизинговая программа JAECOO
+breadcrumb: Специальная лизинговая программа
+image: /img/specials/subsidirovannyi-lizing-jaecoo/thumb.webp
+description: "Лизинговая программа JAECOO представляет собой эксклюзивную финансовую аренду для предпринимателей, юридических и физических лиц, и предусматривает специальную стоимость на автомобили JAECOO, а также особые условия по платежам, как первоначальному, так и дальнейшим."
+---
+import Button from '@/components/Button/Button.astro';
+import SpecialSalonsInfo from '@/components/SpecialSalonsInfo.astro';
+import { SITE_NAME, PHONE } from '@/const';
+import { phoneFormat } from '@/js/utils/numbers.format';
+import { LAST_DAY, MONTH, MONTH_NOMINATIVE, MONTH_GENITIVE, MONTH_PREPOSITIONAL, YEAR } from '@/js/utils/date';
+
+export const dateFrom = '01.07.2024';
+export const dateTo = `${LAST_DAY}.${MONTH}.${YEAR}`;
+export const dateToGenitive = `${LAST_DAY} ${MONTH_GENITIVE} ${YEAR}`;
+export const dateToPrepositional = `${MONTH_PREPOSITIONAL} ${YEAR}`;
+
+<picture>
+	<source media="(min-width: 640px)" srcset="/img/specials/subsidirovannyi-lizing-jaecoo/banner.webp" />
+	<source media="(min-width: 320px)" srcset="/img/specials/subsidirovannyi-lizing-jaecoo/thumb.webp" />
+	<img src="/img/specials/subsidirovannyi-lizing-jaecoo/banner.webp" class="w-full mb-10" alt="Трейд-ин для своих" />
+</picture>
+
+**JAECOO Leasing**
+
+В 2025 году JAECOO продолжает лизинговую программу, которая предоставляет корпоративным клиентам дополнительную выгоду при приобретении автомобилей бренда JAECOO для своих автопарков, а для розничных покупателей – дополнительный способ приобретения автомобиля, помимо использования кредитных программ.
+
+Лизинговая программа JAECOO представляет собой эксклюзивную финансовую аренду для предпринимателей, юридических и физических лиц, и предусматривает специальную стоимость на автомобили JAECOO, а также особые условия по платежам, как первоначальному, так и дальнейшим.
+
+В программе принимают участие ведущие российские лизинговые компании и официальные дилеры JAECOO по всей России. Размер выгоды при покупке автомобилей в рамках лизинговой программы JAECOO зависит от конкретных моделей и других условий. Например, при приобретении флагманского кроссовера JAECOO J8 в комплектации Active, ежемесячный платеж составит 85 000 рублей для договора на три года, а выгода в рамках программы достигает 1 200 000 рублей.
+
+<SpecialSalonsInfo title='Оставить заявку на консультацию' dataTitle='Заявка на консультацию. JAECOO Leasing' dataFormName="Заявка на консультацию. JAECOO Leasing" />
