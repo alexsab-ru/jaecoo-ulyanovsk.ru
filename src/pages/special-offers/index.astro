@@ -7,12 +7,20 @@ import { sortingAndFilteringPosts } from '@/js/utils/sortingAndFilteringPosts';
 
 const rawPosts = await getCollection('special-offers');
 
-let posts, image;
+let posts, image, postsByCategory;
 // Проверяем, что массив rawPosts не пустой перед сортировкой
 import { getRandomInt } from '@/js/utils/numbers.format';
 if (rawPosts && rawPosts.length > 0) {
 	posts = sortingAndFilteringPosts(rawPosts);
 	image = posts[getRandomInt(0, posts.length)].data.image;
+	postsByCategory = posts.reduce((acc, post) => {
+		const category = post.data?.category || 'default';
+		if (!acc[category]) {
+			acc[category] = [];
+		}
+		acc[category].push(post);
+		return acc;
+		}, {});
 } else {
 	// Если массив пустой, можно присвоить image значение по умолчанию или обработать этот случай
 	image = ''; // или какая-то другая логика
@@ -29,8 +37,15 @@ export const breadcrumb = { name: "Спецпредложения", href: "/spec
 >
 	{
 		posts ? (
-			<div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-3 sm:gap-5">
-				{ posts.map(post => ( <PostItem post={post} /> )) }
+			<div>
+				{Object.entries(postsByCategory).map(([category, posts]) => (
+					<>
+						{ category !== 'default' && <h3 class="!text-2xl sm:!text-4xl font-extrabold !mb-7 mt-14">{category}</h3> }
+						<div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-3 sm:gap-5">
+							{ posts.map(post => ( <PostItem post={post} /> )) }
+						</div>
+					</>
+					))}
 			</div>
 		) : (
 			<p>Скоро здесь появятся спецпредложения {SITE_NAME}.</p>
