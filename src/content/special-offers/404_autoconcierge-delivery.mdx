@@ -1,0 +1,56 @@
+---
+h1: Автоконсьерж JAECOO
+title: Автоконсьерж JAECOO в Ульяновске
+caption: Автоконсьерж JAECOO
+breadcrumb: Автоконсьерж JAECOO
+image: /img/specials/autoconcierge-delivery/thumb.webp
+description: "Автоконсьерж JAECOO в Ульяновске. Достаточно просто позвонить по номеру 8 800 600 9 888 и выбрать услугу Автоконсьерж."
+slug: autoconcierge-delivery
+category: "Поддержка"
+---
+import Button from '@/components/Button/Button.astro';
+import SpecialSalonsInfo from '@/components/SpecialSalonsInfo.astro';
+import AdvantagesList from '@/components/Advantages/List.astro';
+import { SITE_NAME, PHONE } from '@/const';
+import { phoneFormat } from '@/js/utils/numbers.format';
+import { LAST_DAY, MONTH, MONTH_NOMINATIVE, MONTH_GENITIVE, MONTH_PREPOSITIONAL, YEAR } from '@/js/utils/date';
+
+export const dateFrom = '01.07.2024';
+export const dateTo = `${LAST_DAY}.${MONTH}.${YEAR}`;
+export const dateToGenitive = `${LAST_DAY} ${MONTH_GENITIVE} ${YEAR}`;
+export const dateToPrepositional = `${MONTH_PREPOSITIONAL} ${YEAR}`;
+export const advantages = [
+	{iconName: 'icon-map', iconClass: 'text-accent-500', title: 'Бесплатная доставка', text: 'Автомобиля в официальный сервис*'},
+	{iconName: 'safe', iconClass: 'text-accent-500', title: 'Дистанционное согласование', text: 'Дополнительных работ'},
+	{iconName: 'chat', iconClass: 'text-accent-500', title: 'Онлайн-подписание', text: 'Документов по итогам проведённого ремонта'},
+];
+
+### **Мы ценим время наших клиентов и предлагаем воспользоваться услугой удалённого сервиса**
+
+<picture>
+    <source media="(min-width: 640px)" srcset="/img/specials/autoconcierge-delivery/banner.webp" />
+    <source media="(min-width: 320px)" srcset="/img/specials/autoconcierge-delivery/thumb.webp" />
+    <img src="/img/specials/autoconcierge-delivery/banner.webp" class="w-full mb-10" alt="Автоконсьерж JAECOO" />
+</picture>
+
+<AdvantagesList items={ advantages } />
+
+### **Как воспользоваться услугой?**
+
+**Телефон горячей линии: [8 800 600 9 888](tel:+78006009888)**
+
+**Преимущества услуги**
+
+- **ЭКОНОМИЯ ВРЕМЕНИ И СИЛ.** Вам не придется тратить свое время и силы на поездку в сервисный центр, а потом обратно на своем автомобиле. Вместо этого, вы сможете заняться своими делами, пока ваш автомобиль будет находиться на обслуживании.
+- **ПРОФЕССИОНАЛЬНЫЙ ПОДХОД.** Сервисные центры используют только современное оборудование и технологии, что позволяет провести диагностику и ремонт на высоком уровне.
+- **БЕЗОПАСНОСТЬ.** При доставке автомобиля на сервис, вы можете быть уверены в безопасности вашего автомобиля. Сотрудники компаний имеют большой опыт работы и гарантируют аккуратную доставку вашего автомобиля.
+- **ГАРАНТИЯ КАЧЕСТВА.** Официальные дилерские центры предоставляют гарантию на выполненные работы и запасные части.
+- **УДОБСТВО.** Вам не нужно беспокоиться о том, как доставить свой автомобиль на сервис. 
+
+Достаточно просто позвонить по номеру [8 800 600 9 888](tel:+78006009888) и выбрать услугу Автоконсьерж.
+
+<SpecialSalonsInfo dataFormName="Узнать подробнее. Автоконсьерж JAECOO" />
+
+> <sup>*</sup>Участие в программе «Автоконсьерж JAECOO» распространяется только на физических лиц, владельцев автомобилей бренда JAECOO, приобретенных на территории России у официальных дилеров JAECOO и имеющих действующую карту программы помощи на дорогах.
+
+> Услуга для Клиента JAECOO оказывается не более 2 раз в год, в течении срока действия карты помощи на дороге (1 год). Транспортировка автомобиля в рамках Услуги «АвтоКонсьерж JAECOO» за одну поездку составляет не более 100 километров по автомобильным дорогам от удаленности Дилерского центра JAECOO.
