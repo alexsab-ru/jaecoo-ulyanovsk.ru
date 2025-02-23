@@ -1,0 +1,31 @@
+---
+h1: Руководства по эксплуатации JAECOO
+title: Руководства по эксплуатации автомобилей JAECOO - скачать инструкции
+caption: Руководства по эксплуатации
+breadcrumb: Руководства по эксплуатации
+image: /img/specials/manuals/thumb.webp
+description: "Скачайте руководства по эксплуатации автомобилей JAECOO J7 и J8. Инструкции содержат важную информацию по правильному использованию и обслуживанию вашего автомобиля."
+slug: manuals
+category: "Поддержка"
+---
+import Button from '@/components/Button/Button.astro';
+import SpecialSalonsInfo from '@/components/SpecialSalonsInfo.astro';
+import AdvantagesList from '@/components/Advantages/List.astro';
+import { SITE_NAME, PHONE } from '@/const';
+import { phoneFormat } from '@/js/utils/numbers.format';
+import { LAST_DAY, MONTH, MONTH_NOMINATIVE, MONTH_GENITIVE, MONTH_PREPOSITIONAL, YEAR } from '@/js/utils/date';
+
+export const dateFrom = '01.07.2024';
+export const dateTo = `${LAST_DAY}.${MONTH}.${YEAR}`;
+export const dateToGenitive = `${LAST_DAY} ${MONTH_GENITIVE} ${YEAR}`;
+export const dateToPrepositional = `${MONTH_PREPOSITIONAL} ${YEAR}`;
+export const links = [
+	{iconName: 'file', title: 'JAECOO J7', text: '<a href="https://files.jaecoo.ru/Manuals_J7.pdf" class="btn btn-o !m-0" target="_blank" rel="nofollow">Скачать руководство</a>'},
+	{iconName: 'file', title: 'JAECOO J8', text: '<a href="https://files.jaecoo.ru/Manuals_J8.pdf" class="btn btn-o !m-0" target="_blank" rel="nofollow">Скачать руководство</a>'},
+];
+
+Пожалуйста, внимательно прочитайте руководство и выполняйте данные инструкции и рекомендации. При соблюдении всех правил руководства, вам гарантировано удовольствие от безопасной и долговременной эксплуатации вашего автомобиля.
+
+<AdvantagesList items={ links } classes='grid sm:grid-cols-2 gap-5 lg:gap-10 text-center my-10 md:my-20' />
+
+<SpecialSalonsInfo dataFormName="Узнать подробнее. Руководства по эксплуатации" />
