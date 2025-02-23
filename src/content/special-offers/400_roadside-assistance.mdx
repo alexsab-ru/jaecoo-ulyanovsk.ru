@@ -1,0 +1,61 @@
+---
+h1: Помощь на дорогах JAECOO ASSISTANCE
+title: Помощь на дорогах JAECOO ASSISTANCE в Ульяновске - поддержка владельцев Джейку
+caption: Помощь на дорогах
+breadcrumb: Помощь на дорогах JAECOO ASSISTANCE
+image: /img/specials/roadside-assistance/thumb.webp
+description: "Премиальная программа JAECOO ASSISTANCE - помощь на дорогах для Вас 24 часа в сутки, 365 дней в году. В случае поломки автомобиля или ДТП, мы сделаем всё возможное, чтобы оказать Вам необходимую помощь в кратчайшие сроки."
+slug: roadside-assistance
+category: "Поддержка"
+---
+import Button from '@/components/Button/Button.astro';
+import SpecialSalonsInfo from '@/components/SpecialSalonsInfo.astro';
+import AdvantagesList from '@/components/Advantages/List.astro';
+import { SITE_NAME, PHONE } from '@/const';
+import { phoneFormat } from '@/js/utils/numbers.format';
+import { LAST_DAY, MONTH, MONTH_NOMINATIVE, MONTH_GENITIVE, MONTH_PREPOSITIONAL, YEAR } from '@/js/utils/date';
+
+export const dateFrom = '01.07.2024';
+export const dateTo = `${LAST_DAY}.${MONTH}.${YEAR}`;
+export const dateToGenitive = `${LAST_DAY} ${MONTH_GENITIVE} ${YEAR}`;
+export const dateToPrepositional = `${MONTH_PREPOSITIONAL} ${YEAR}`;
+export const advantages = [
+    {title: 'Информационная и техническая поддержка', text: 'В любое время суток достаточно позвонить по телефону контакт-центра, и наши специалисты окажут Вам помощь в кратчайшие сроки'},
+    {title: 'Транспортировка Автомобиля для ТО', text: 'Доставка автомобиля для выполнения ТО к ближайшему дилеру и возврат в необходимый пункт назначения'},
+    {title: 'Услуга «трезвый водитель»', text: 'Транспортировка автомобиля клиента водителем или при помощи эвакуатора в любую точку города'},
+    {title: 'Продолжение поездки', text: 'Автобусом, поездом, водным транспортом, самолетом, если расстояние от дилера до места проживания клиента превышает 100 км'},
+    {title: 'Размещение в отеле', text: 'До 10 ночей в отеле 4*. При необходимости - поездка на такси от Дилера до отеля'},
+];
+
+<picture>
+    <source media="(min-width: 640px)" srcset="/img/specials/roadside-assistance/banner.webp" />
+    <source media="(min-width: 320px)" srcset="/img/specials/roadside-assistance/thumb.webp" />
+    <img src="/img/specials/roadside-assistance/banner.webp" class="w-full mb-10" alt="Помощь на дорогах JAECOO ASSISTANCE" />
+</picture>
+
+### **Премиальная программа JAECOO ASSISTANCE**
+
+Помощь на дорогах для Вас 24 часа в сутки, 365 дней в году. В случае поломки автомобиля или ДТП, мы сделаем всё возможное, чтобы оказать Вам необходимую помощь в кратчайшие сроки.
+
+**Телефон горячей линии: [8 800 600 9 888](tel:+78006009888)**
+
+### **Основные преимущества программы**
+
+<AdvantagesList items={ advantages } />
+
+### **Дополнительные услуги программы**
+
+- Ремонт на месте поломки
+- Эвакуация до ближайшего Дилера JAECOO
+- Организация ответственного хранения неисправного Автомобиля
+- Услуги аварийного комиссара
+- Юридическая помощь
+- Предоставление подменного автомобиля
+
+<SpecialSalonsInfo dataFormName="Узнать подробнее. Помощь на дорогах JAECOO ASSISTANCE" />
+
+> Программа действует на территории Российской Федерации и Республики Беларусь в городах присутствия Дилеров JAECOO. Покрытие за пределами городов присутствия Дилеров JAECOO ограничено расстоянием в 250 километров вокруг внешних границ указанных городов.
+
+> Действие Программы распространяется на все новые автомобили марки JAECOO, приобретенные у Дилеров JAECOO на территории РФ и РБ. Срок действия - 1 год с даты приобретения. При прохождении планового ТО у официального дилера полис автоматически продлевается на 1 год.
+
+> Провайдером услуги является компания ООО «Терра Ассистанс». В рамках программы JAECOO Assistance все услуги оказываются бесплатно. Предложение действует до {dateToGenitive.toLowerCase()}&nbsp;г.
