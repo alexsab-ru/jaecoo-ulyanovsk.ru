@@ -38,10 +38,26 @@ export const LINKS_MENU = [
 		children: models.map(model => ( { url: `models/${model.id}/`, name: `${model?.mark_id} ${model.name.toUpperCase()}` } ) )
 	},
 	// {url: 'trade-in/', name: 'Оценка автомобиля'},
-	{url: 'special-offers/', name: 'Спецпредложения'},
+	{
+		url: 'javascript:void(0)',
+		name: 'Покупателям',
+		children: [
+			{ url: 'test-drive/', name: 'Запись на тест-драйв' },
+			{ url: 'special-offers/', name: 'Спецпредложения' },
+			{ url: 'customers-credit/', name: 'Кредитование и страхование' },
+		],
+	},
+	{
+		url: 'javascript:void(0)',
+		name: 'Владельцам',
+		children: [
+			{ url: 'service-request/', name: 'Запись на сервис' },
+			{ url: 'owners-service-promo/', name: 'Сервисные акции' },
+			{ url: 'owners-support/', name: 'Поддержка' },
+			{ url: 'special-offers/', name: 'Спецпредложения' },
+		],
+	},
 	// {url: 'news/', name: 'Новости'},
-	{url: 'test-drive/', name: 'Запись на тест-драйв'},
-	{url: 'service-request/', name: 'Запись на сервис'},
 	{url: '#services', name: 'Услуги'},
 	{url: 'about/', name: 'О бренде'},
 	{url: 'contacts/', name: 'Контакты'},
