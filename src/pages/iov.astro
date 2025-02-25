@@ -1,0 +1,59 @@
+---
+import {SITE_NAME, BRAND, LEGAL_CITY_WHERE, TIMER_ENDTIME, MARQUEE} from '@/const.js';
+import Layout from '@/layouts/Layout.astro';
+import Banner from '@/components/Banner/Banner.astro';
+import UniversalSection from '@/components/Model/sections/universal.astro';
+const banners = [
+	{
+		"id": 1,
+		"show": true,
+		"type": "",
+		"view": "scroll-link",
+		"videoUrl": "",
+		"imageUrl": "/img/banners/iov/desktop-banner.webp",
+		"mobileImageUrl": "/img/banners/iov/mobile-banner.webp",
+		"title": "<div class=\"mt-10 sm:mt-20 lg:mt-0\">JAECOO CONNECT</div>",
+		"descr": "<div class=\"text-sm sm:text-base md:text-lg sm:mt-8 font-normal\">Комплекс интеллектуальных технологий с&nbsp;подключением к&nbsp;сети интернет <br/>для удаленного управления функциями автомобиля при помощи мобильного приложения O&amp;J, а&nbsp;также онлайн-сервисы. <br/>Функционал JAECOO CONNECT доступен для новых моделей JAECOO J7 2024&nbsp;года.<sup>*</sup></div>",
+		"btn": "Скачать приложение",
+		"btnColor": " ",
+		"btnUrl": "#app",
+		"autoplay": 5000
+	}
+];
+
+---
+
+<Layout 
+	title=`JAECOO CONNECT – дистанционное управление автомобилем` 
+	description=`JAECOO CONNECT–это комплекс интеллектуальных технологий с подключением к сети интернет для удаленного управления функциями автомобиля при помощи мобильного приложения O&J`
+	image=''
+>
+	<h1 class="sr-only">Комплекс интеллектуальных технологий JAECOO CONNECT</h1>
+	<Banner banners={banners} />
+	<UniversalSection section={ {title: "Основные функции", images: [
+		{url: "/img/pages/iov/J7IOV_VKservices_740x494.webp", title: "Сервисы VK", description: "Музыка, клипы, новости, погода - всегда будьте в курсе событий и на волне хорошего настроения!"},
+		{url: "/img/pages/iov/J7IOV_Telematic_740x494.webp", title: "Телематика", description: "Дистанционное управление функциями автомобиля при помощи мобильного приложения."},
+		{url: "/img/pages/iov/J7IOV_Navigation_740x494.webp", title: "Навигация", description: "Предустановлено приложение для навигации по картам популярных сервисов."},
+	]} } />
+	<UniversalSection section={ {sectionClass: "!bg-dark text-white", images: [
+		{url: "/img/pages/iov/J7.webp", title: "Дистанционное управление", description: "Где бы не находился ваш автомобиль, вы можете управлять им дистанционно. Запуск двигателя, открытие и закрытие стекол, дверей, люка и багажника. При необходимости можно включить обогрев лобового стекла и руля, а также управлять климат-контролем."},
+		{url: "/img/pages/iov/online-services.webp", title: "Онлайн-сервисы", description: "Сделайте вашу поездку более комфортной и приятной. Навигатор проложит кратчайший маршрут и поможет избежать пробок, а с помощью сервисов VK (музыка, видео) ваша дорога пролетит незаметно."},
+		{url: "/img/pages/iov/check-auto.webp", title: "Проверка состояния автомобиля", description: "Давление в шинах, пробег, средний расход топлива и запас хода и другая информация доступна вам из любой точки мира."},
+		{url: "/img/pages/iov/J7_USP_OJ app_1520x506.webp", title: "Мобильное приложение O&J", description: "Хотите задать вопрос об автомобиле, узнать новости бренда, подобрать аксессуары или участвовать в конкурсах? В Мобильном приложении O&J найдете всю необходимую информацию. Также вы можете пообщаться с владельцами OMODA & JAECOO, опубликовать фотографии автомобиля, рассказать о своих поездках."},
+	]} } />
+	<UniversalSection section={ {images: [
+		{url: "/img/pages/iov/1.webp", title: "Управление функциями автомобиля", description: "При помощи приложения O&J вы можете удаленно открывать и закрывать автомобиль, багажник, люк и окна. Доступны показания датчиков давления в шинах, температуры воздуха снаружи и в салоне автомобиля, запаса топлива в баке. Можно включить фары или активировать звуковой сигнал автомобиля."},
+		{url: "/img/pages/iov/2.webp", title: "Дистанционный запуск двигателя", description: "Удаленный запуск двигателя с настройкой длительности его работы. Управление климат-контролем с регулировкой температуры в салоне, а также возможностью включать/выключать подогрев руля, лобового стекла, вентиляции и обогрева сидений. Настройка автозапуска двигателя по расписанию."},
+		{url: "/img/pages/iov/3.webp", title: "Геолокационные сервисы", description: "Отслеживание геолокации автомобиля на карте, создание маршрута с передачей его на штатную навигационную систему. Создание зон контроля передвижения автомобиля с отслеживанием нахождения автомобиля в пределах обозначенной на карте зоны."},
+		{url: "/img/pages/iov/4.webp", title: "Совместный доступ и уведомления", description: "Вы можете поделиться доступом к управлению автомобилем на определенный период времени с другими зарегистрированными в приложении O&J пользователями (с возможностью ограничить доступные функции). Возможна активация пуш-уведомлений о несанкционированном доступе к машине, о состоянии автомобиля."},
+		{url: "/img/pages/iov/5.webp", title: "Как активировать приложение?", description: "После скачивания мобильного приложения O&J и регистрации, добавьте ваш автомобиль в раздел Гараж, введя VIN-номер и номер ЭПТС. Далее выберите любое приложение на экране мультимедиа и согласитесь с активацией SIM, после чего перейдите в приложение «Кабинет» и получите QR-код. В мобильном приложении зайдите в раздел Профиль и нажмите на иконку сканирования в правом верхнем углу, а в нижнем левом углу переключитесь на \"Мультимедиа автомобиля\" и отсканируйте QR-код. Для активации функций дистанционного управления необходимо задать 6-ти значный пароль, состоящий только из цифр."},
+	]} } />
+	<UniversalSection section={ {id: "app", sectionClass: "text-center", title: "Приложение O&J", text: 'Скачивайте мобильное приложение и получайте доступ к вселенной OMODA и JAECOO в любой момент.<div class="flex items-center justify-center flex-wrap gap-4 pt-8 -mb-8"><a href="https://apps.apple.com/ru/app/my-omoda/id6444413855" class="h-14 w-auto border-2 border-gray-400 rounded-[5px] px-2 py-1" target="_blank" rel="nofollow"><img src="/img/app-store.png" class="h-full w-auto"></a><a href="https://play.google.com/store/apps/details?id=com.ru.chery.od.myOmoda" class="h-14 w-auto" target="_blank" rel="nofollow"><img src="/img/google-play.png" class="h-full w-auto"></a></div>', images: [{url: "/img/app.webp"}]} } />
+
+	<section>
+		<div class="container">
+			<p class="text-sm text-gray-600 italic"><sup>*</sup>Система дистанционного управления и онлайн сервисы JAECOO CONNECT доступны только для моделей JAECOO J7 комплектации Ultimate 1.6 Turbo (Турбо) 2WD и комплектации Supreme и Supreme-V 1.6 Turbo (Турбо) 4WD, произведенных после 1 сентября 2024 года.</p>
+		</div>
+	</section>	
+
+</Layout>
