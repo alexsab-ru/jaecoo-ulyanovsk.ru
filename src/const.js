@@ -55,6 +55,7 @@ export const LINKS_MENU = [
 			{ url: 'owners-service-promo/', name: 'Сервисные акции' },
 			{ url: 'owners-support/', name: 'Поддержка' },
 			{ url: 'special-offers/', name: 'Спецпредложения' },
+			{ url: 'iov/', name: 'JAECOO Connect' },
 		],
 	},
 	// {url: 'news/', name: 'Новости'},
