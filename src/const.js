@@ -66,7 +66,10 @@ export const LINKS_MENU = [
 // Коллекции
 export const COLLECTIONS = [
 	{name: 'special-offers', title: 'Спецпредложения'},
-	{name: 'news', title: 'Новости'},
+	// {name: 'news', title: 'Новости'},
+	{name: 'owners-service-promo', title: 'Сервисные акции'},
+	{name: 'owners-support', title: 'Поддержка'},
+	{name: 'customers-credit', title: 'Кредитование и страхование'},
 ];
 // Текстовая строка над хедером
 export const HEADER_TOP_LINE = '';
