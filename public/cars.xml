@@ -2,6 +2,138 @@
 <data>
   <cars><car>
       <mark_id>Jaecoo</mark_id>
+      <folder_id>J7</folder_id>
+      <modification_id>1.6 AMT (150 л.с.) 4WD</modification_id>
+      <complectation_name>Active 150</complectation_name>
+      <unique_id>3412501</unique_id>
+      <body_type>Внедорожник 5 дв.</body_type>
+      <doors_count>5</doors_count>
+      <wheel>левый</wheel>
+      <engine_volume>1600</engine_volume>
+      <engine_type>Бензин</engine_type>
+      <engine_power>150 л.с.</engine_power>
+      <gearbox>Автомат робот</gearbox>
+      <drive>Полный</drive>
+      <nameplate />
+      <color>Черный</color>
+      <metallic>Да</metallic>
+      <extras />
+      <description />
+      <year>2024</year>
+      <registry_year>2024</registry_year>
+      <price>3589900</price>
+      <credit_discount>0</credit_discount>
+      <tradein_discount>0</tradein_discount>
+      <insurance_discount>0</insurance_discount>
+      <action>show</action>
+      <currency>RUR</currency>
+      <vin>LVVDD21B2RC148492</vin>
+      <availability>В наличии</availability>
+      <custom>Растаможен</custom>
+      <state>Отличное</state>
+      <owners_number>Не было владельцев</owners_number>
+      <run>0</run>
+      <contact_info>
+        <contact>
+          <name>Менеджер</name>
+          <phone>+7 (842) 228-37-05</phone>
+          <time>09:00-21:00</time>
+        </contact>
+      </contact_info>
+      <poi_id>г. Ульяновск, пр-т Нариманова, 128</poi_id>
+      <images>
+        <image>https://tradeins.space/uploads/photo/33907350/8e25072b348bc3b2afd24842d6ecf18f.jpg</image>
+        <image>https://tradeins.space/uploads/photo/33907351/774fedf26323d12757cac9c13ceb8ee0.jpg</image>
+        <image>https://tradeins.space/uploads/photo/33907352/40ecf284146768f927642e4f118f84a9.jpg</image>
+        <image>https://tradeins.space/uploads/photo/33907353/2869b58b09436711d96f66bf2d85359c.jpg</image>
+        <image>https://tradeins.space/uploads/photo/33907354/4891a722657108d8e48bcfcae71a907c.jpg</image>
+        <image>https://tradeins.space/uploads/photo/33907355/23ac9bee99b11e761366dfe2220107de.jpg</image>
+        <image>https://tradeins.space/uploads/photo/33907356/d721d55afdb77ef13c74be5d28e367a8.jpg</image>
+        <image>https://tradeins.space/uploads/photo/33907357/21a650cfea6e6cb4be73942e729ed0a9.jpg</image>
+        <image>https://tradeins.space/uploads/photo/33907358/315fb6fdec5a06ad87aab8b8671d851c.jpg</image>
+        <image>https://tradeins.space/uploads/photo/33907359/a98d0cf8de177e55da0076449d975660.jpg</image>
+        <image>https://tradeins.space/uploads/photo/33907360/8a1a7ac11e5def9a3d19d4ed5779c50c.jpg</image>
+        <image>https://tradeins.space/uploads/photo/33907361/4cf91955f61af3b7c703e36eae0209ba.jpg</image>
+        <image>https://tradeins.space/uploads/photo/33907362/64f66ed606287d6ca9b6748d73961904.jpg</image>
+        <image>https://tradeins.space/uploads/photo/33907363/01d6d8cb3f938e1fa385a3ca76e87a84.jpg</image>
+        <image>https://tradeins.space/uploads/photo/33907364/56cc9a8d9332fda33c1e8a5c6a1ac17d.jpg</image>
+        <image>https://tradeins.space/uploads/photo/33907365/84a6546ee647abf4b70c20101a6cac92.jpg</image>
+        <image>https://tradeins.space/uploads/photo/33907366/f1c33f94a8f2375657b3893f981593da.jpg</image>
+        <image>https://tradeins.space/uploads/photo/33907367/65b8546788947f645494032d5f98f11a.jpg</image>
+        <image>https://tradeins.space/uploads/photo/33907368/d43995b2633fe47f14701248ba97561a.jpg</image>
+        <image>https://tradeins.space/uploads/photo/33907369/3f0978de2bfd9a57056b48f8a884629d.jpg</image>
+      </images>
+      <multiposting>
+        <classifieds>autoru</classifieds>
+      </multiposting>
+    <max_discount>0</max_discount><priceWithDiscount>3589900</priceWithDiscount><sale_price>3589900</sale_price><url>https://jaecoo-ulyanovsk.ru/cars/jaecoo-j7-16-amt-150-лс-4wd-active-150-черный-2024/</url></car><car>
+      <mark_id>Jaecoo</mark_id>
+      <folder_id>J7</folder_id>
+      <modification_id>1.6 AMT (186 л.с.) 4WD</modification_id>
+      <complectation_name>Supreme</complectation_name>
+      <unique_id>3412502</unique_id>
+      <body_type>Внедорожник 5 дв.</body_type>
+      <doors_count>5</doors_count>
+      <wheel>левый</wheel>
+      <engine_volume>1600</engine_volume>
+      <engine_type>Бензин</engine_type>
+      <engine_power>186 л.с.</engine_power>
+      <gearbox>Автомат робот</gearbox>
+      <drive>Полный</drive>
+      <nameplate />
+      <color>Зеленый</color>
+      <metallic>Да</metallic>
+      <extras />
+      <description />
+      <year>2024</year>
+      <registry_year>2024</registry_year>
+      <price>3779900</price>
+      <credit_discount>0</credit_discount>
+      <tradein_discount>0</tradein_discount>
+      <insurance_discount>0</insurance_discount>
+      <action>show</action>
+      <currency>RUR</currency>
+      <vin>LVVDD21B3RC029978</vin>
+      <availability>В наличии</availability>
+      <custom>Растаможен</custom>
+      <state>Отличное</state>
+      <owners_number>Не было владельцев</owners_number>
+      <run>0</run>
+      <contact_info>
+        <contact>
+          <name>Менеджер</name>
+          <phone>+7 (842) 228-37-05</phone>
+          <time>09:00-21:00</time>
+        </contact>
+      </contact_info>
+      <poi_id>г. Ульяновск, пр-т Нариманова, 128</poi_id>
+      <images>
+        <image>https://tradeins.space/uploads/photo/34558284/a9333cd1af592aa5d570f687af3b3259.jpg</image>
+        <image>https://tradeins.space/uploads/photo/34558285/f1dbf65ddf6e4b7d5ba30c0777108db4.jpg</image>
+        <image>https://tradeins.space/uploads/photo/34558286/7fa3ee460dbd61bbd02a5c71b1f4baea.jpg</image>
+        <image>https://tradeins.space/uploads/photo/34558287/4295d59e188d24e18bfb150753c486dd.jpg</image>
+        <image>https://tradeins.space/uploads/photo/34558288/dc2b44c6584ba9bbbdfd87a31176ad9e.jpg</image>
+        <image>https://tradeins.space/uploads/photo/34558289/134977fd8e36f9239c6b730439cfd7cb.jpg</image>
+        <image>https://tradeins.space/uploads/photo/34558290/c91727df8d74153f15174d7c2a83e063.jpg</image>
+        <image>https://tradeins.space/uploads/photo/34558291/e15fe52b18950142431eb371e603cee8.jpg</image>
+        <image>https://tradeins.space/uploads/photo/34558292/d898dbcfd030a633b96a0d4331527199.jpg</image>
+        <image>https://tradeins.space/uploads/photo/34558293/5a13852249015c2ae020d484d9f0ffe5.jpg</image>
+        <image>https://tradeins.space/uploads/photo/34558294/96f5e3895e9ca9e0684f813cdabb8b1a.jpg</image>
+        <image>https://tradeins.space/uploads/photo/34558295/6dc3dd6a9848b4eb0ba95e99664386f5.jpg</image>
+        <image>https://tradeins.space/uploads/photo/34558296/9807a9d7018319748629f83bfeba201c.jpg</image>
+        <image>https://tradeins.space/uploads/photo/34558297/7a272d3ab214d49f2a61a58b806d1c5e.jpg</image>
+        <image>https://tradeins.space/uploads/photo/34558298/9bc74afb58dbaca8b856f025c4575524.jpg</image>
+        <image>https://tradeins.space/uploads/photo/34558299/24dc3b5c2b9219ef129597abc509bcad.jpg</image>
+        <image>https://tradeins.space/uploads/photo/34558300/e90d1880e173721092aae2477b22c24d.jpg</image>
+        <image>https://tradeins.space/uploads/photo/34558301/5d3915a5353258e432012da44c2300ce.jpg</image>
+        <image>https://tradeins.space/uploads/photo/34558302/b5d3ba854e556337461c359105e0960c.jpg</image>
+        <image>https://tradeins.space/uploads/photo/34558303/3d7a4bc229e867d7640ec95b52dbde7a.jpg</image>
+      </images>
+      <multiposting>
+        <classifieds>autoru</classifieds>
+      </multiposting>
+    <max_discount>0</max_discount><priceWithDiscount>3779900</priceWithDiscount><sale_price>3779900</sale_price><url>https://jaecoo-ulyanovsk.ru/cars/jaecoo-j7-16-amt-186-лс-4wd-supreme-зеленый-2024/</url></car><car>
+      <mark_id>Jaecoo</mark_id>
       <folder_id>J8</folder_id>
       <modification_id>2.0 AMT (249 л.с.) 4WD</modification_id>
       <complectation_name>Supreme</complectation_name>
@@ -23,7 +155,7 @@
       <registry_year>2024</registry_year>
       <price>4999000</price>
       <credit_discount>0</credit_discount>
-      <tradein_discount>549500</tradein_discount>
+      <tradein_discount>0</tradein_discount>
       <insurance_discount>0</insurance_discount>
       <action>show</action>
       <currency>RUR</currency>
@@ -84,14 +216,14 @@
       <drive>Полный</drive>
       <nameplate />
       <color>Серый</color>
-      <metallic>Нет</metallic>
+      <metallic>Да</metallic>
       <extras />
       <description />
       <year>2024</year>
       <registry_year>2024</registry_year>
       <price>4999000</price>
       <credit_discount>0</credit_discount>
-      <tradein_discount>519500</tradein_discount>
+      <tradein_discount>0</tradein_discount>
       <insurance_discount>0</insurance_discount>
       <action>show</action>
       <currency>RUR</currency>
@@ -129,6 +261,123 @@
       <folder_id>J8</folder_id>
       <modification_id>2.0 AMT (249 л.с.) 4WD</modification_id>
       <complectation_name>Supreme</complectation_name>
+      <unique_id>3412508</unique_id>
+      <body_type>Внедорожник 5 дв.</body_type>
+      <doors_count>5</doors_count>
+      <wheel>левый</wheel>
+      <engine_volume>2000</engine_volume>
+      <engine_type>Бензин</engine_type>
+      <engine_power>249 л.с.</engine_power>
+      <gearbox>Автомат робот</gearbox>
+      <drive>Полный</drive>
+      <nameplate />
+      <color>Серый</color>
+      <metallic>Да</metallic>
+      <extras />
+      <description />
+      <year>2024</year>
+      <registry_year>2024</registry_year>
+      <price>4999000</price>
+      <credit_discount>0</credit_discount>
+      <tradein_discount>0</tradein_discount>
+      <insurance_discount>0</insurance_discount>
+      <action>show</action>
+      <currency>RUR</currency>
+      <vin>LVTDD24B7RD545372</vin>
+      <availability>В наличии</availability>
+      <custom>Растаможен</custom>
+      <state>Отличное</state>
+      <owners_number>Не было владельцев</owners_number>
+      <run>0</run>
+      <contact_info>
+        <contact>
+          <name>Менеджер</name>
+          <phone>+7 (842) 228-37-05</phone>
+          <time>09:00-21:00</time>
+        </contact>
+      </contact_info>
+      <poi_id>г. Ульяновск, пр-т Нариманова, 128</poi_id>
+      <images>
+        <image>https://tradeins.space/uploads/photo/33764718/9206b0db05c4beba8224999fb3466571.jpg</image>
+        <image>https://tradeins.space/uploads/photo/33764719/46bef4a25ddc5de6402b09d8cdae02e7.jpg</image>
+        <image>https://tradeins.space/uploads/photo/33764720/0407ea24fbe35a85703813f58e3869e0.jpg</image>
+        <image>https://tradeins.space/uploads/photo/33764721/7fbda631c2f202ca80c4104b793f4062.jpg</image>
+        <image>https://tradeins.space/uploads/photo/33764722/751a71318a26ca2058f6cc8896c32978.jpg</image>
+        <image>https://tradeins.space/uploads/photo/33764723/69ea30850904ce8da8464d99398cea70.jpg</image>
+        <image>https://tradeins.space/uploads/photo/33764724/9e9063a5aae2fe8ce4aa14cf9311a542.jpg</image>
+        <image>https://tradeins.space/uploads/photo/33764725/fc4e12d92913441b3f51002ffcb7a6ea.jpg</image>
+        <image>https://tradeins.space/uploads/photo/33764726/fe09e5c40b4c1aa5cfc519bf0ba1fe59.jpg</image>
+        <image>https://tradeins.space/uploads/photo/33764727/1677f7e303066390146cf78d05e3a69a.jpg</image>
+        <image>https://tradeins.space/uploads/photo/33764728/6cb9b7b009f46a9d7981c8310d082c03.jpg</image>
+        <image>https://tradeins.space/uploads/photo/33764729/b73d38d52c3dd0f45a9f0ddd9abf8a5e.jpg</image>
+      </images>
+      <multiposting>
+        <classifieds>autoru</classifieds>
+      </multiposting>
+    <max_discount>0</max_discount><priceWithDiscount>4999000</priceWithDiscount><sale_price>4999000</sale_price><url>https://jaecoo-ulyanovsk.ru/cars/jaecoo-j8-20-amt-249-лс-4wd-supreme-серый-2024/</url></car><car>
+      <mark_id>Jaecoo</mark_id>
+      <folder_id>J7</folder_id>
+      <modification_id>1.6 AMT (186 л.с.) 4WD</modification_id>
+      <complectation_name>Supreme</complectation_name>
+      <unique_id>3412512</unique_id>
+      <body_type>Внедорожник 5 дв.</body_type>
+      <doors_count>5</doors_count>
+      <wheel>левый</wheel>
+      <engine_volume>1600</engine_volume>
+      <engine_type>Бензин</engine_type>
+      <engine_power>186 л.с.</engine_power>
+      <gearbox>Автомат робот</gearbox>
+      <drive>Полный</drive>
+      <nameplate />
+      <color>Серебряный</color>
+      <metallic>Да</metallic>
+      <extras />
+      <description />
+      <year>2024</year>
+      <registry_year>2024</registry_year>
+      <price>3779900</price>
+      <credit_discount>0</credit_discount>
+      <tradein_discount>0</tradein_discount>
+      <insurance_discount>0</insurance_discount>
+      <action>show</action>
+      <currency>RUR</currency>
+      <vin>LVVDD21B7RC043415</vin>
+      <availability>В наличии</availability>
+      <custom>Растаможен</custom>
+      <state>Отличное</state>
+      <owners_number>Не было владельцев</owners_number>
+      <run>0</run>
+      <contact_info>
+        <contact>
+          <name>Менеджер</name>
+          <phone>+7 (842) 228-37-05</phone>
+          <time>09:00-21:00</time>
+        </contact>
+      </contact_info>
+      <poi_id>г. Ульяновск, пр-т Нариманова, 128</poi_id>
+      <images>
+        <image>https://tradeins.space/uploads/photo/33761552/c9ffd53179a94c50f5db45c13d007836.jpeg</image>
+        <image>https://tradeins.space/uploads/photo/33761553/911476e17c03436b15bbd4fdcd311875.jpeg</image>
+        <image>https://tradeins.space/uploads/photo/33761554/b695752df0f787d7a5c4b8d7e735e922.jpeg</image>
+        <image>https://tradeins.space/uploads/photo/33761555/73945e324a7442e2f24ebc2ec6c4dca9.jpeg</image>
+        <image>https://tradeins.space/uploads/photo/33761556/4ef82d9c5b0209aea2bbaf1ed12bea27.jpeg</image>
+        <image>https://tradeins.space/uploads/photo/33761557/c8f18d8d2757bd536d473cb7ea2156f2.jpeg</image>
+        <image>https://tradeins.space/uploads/photo/33761558/cca903f124ed93844faf349e34e367d5.jpeg</image>
+        <image>https://tradeins.space/uploads/photo/33761559/85005587b1a7ab226ca5e0dcaf399f99.jpg</image>
+        <image>https://tradeins.space/uploads/photo/33761560/8ae944dacf69462c4a3f56c1000a7b8a.jpg</image>
+        <image>https://tradeins.space/uploads/photo/33761561/a6bfddccf09ff93da2289d903fb5297f.jpg</image>
+        <image>https://tradeins.space/uploads/photo/33761562/84ea912242a0b358878ed15165bfd0d7.jpg</image>
+        <image>https://tradeins.space/uploads/photo/33761563/836f723fc799b3728b7b3e96762819ad.jpeg</image>
+        <image>https://tradeins.space/uploads/photo/33761564/80155a29312192eb918407217545e304.jpeg</image>
+      </images>
+      <multiposting>
+        <classifieds>autoru</classifieds>
+      </multiposting>
+    <max_discount>0</max_discount><priceWithDiscount>3779900</priceWithDiscount><sale_price>3779900</sale_price><url>https://jaecoo-ulyanovsk.ru/cars/jaecoo-j7-16-amt-186-лс-4wd-supreme-серебряный-2024/</url></car><car>
+      <mark_id>Jaecoo</mark_id>
+      <folder_id>J8</folder_id>
+      <modification_id>2.0 AMT (249 л.с.) 4WD</modification_id>
+      <complectation_name>Supreme</complectation_name>
       <unique_id>3412514</unique_id>
       <body_type>Внедорожник 5 дв.</body_type>
       <doors_count>5</doors_count>
@@ -139,15 +388,15 @@
       <gearbox>Автомат робот</gearbox>
       <drive>Полный</drive>
       <nameplate />
-      <color>Серебряный</color>
-      <metallic>Нет</metallic>
+      <color>Серый</color>
+      <metallic>Да</metallic>
       <extras />
       <description />
       <year>2024</year>
       <registry_year>2024</registry_year>
       <price>4999000</price>
       <credit_discount>0</credit_discount>
-      <tradein_discount>519500</tradein_discount>
+      <tradein_discount>0</tradein_discount>
       <insurance_discount>0</insurance_discount>
       <action>show</action>
       <currency>RUR</currency>
@@ -183,7 +432,7 @@
       <multiposting>
         <classifieds>autoru</classifieds>
       </multiposting>
-    <max_discount>0</max_discount><priceWithDiscount>4999000</priceWithDiscount><sale_price>4999000</sale_price><url>https://jaecoo-ulyanovsk.ru/cars/jaecoo-j8-20-amt-249-лс-4wd-supreme-серебряный-2024/</url></car><car>
+    <max_discount>0</max_discount><priceWithDiscount>4999000</priceWithDiscount><sale_price>4999000</sale_price><url>https://jaecoo-ulyanovsk.ru/cars/jaecoo-j8-20-amt-249-лс-4wd-supreme-серый-2024/</url></car><car>
       <mark_id>Jaecoo</mark_id>
       <folder_id>J7</folder_id>
       <modification_id>1.6 AMT (150 л.с.)</modification_id>
@@ -206,7 +455,7 @@
       <registry_year>2024</registry_year>
       <price>2959900</price>
       <credit_discount>0</credit_discount>
-      <tradein_discount>443985</tradein_discount>
+      <tradein_discount>0</tradein_discount>
       <insurance_discount>0</insurance_discount>
       <action>show</action>
       <currency>RUR</currency>
@@ -249,6 +498,72 @@
     <max_discount>0</max_discount><priceWithDiscount>2959900</priceWithDiscount><sale_price>2959900</sale_price><url>https://jaecoo-ulyanovsk.ru/cars/jaecoo-j7-16-amt-150-лс-urban-белый-2024/</url></car><car>
       <mark_id>Jaecoo</mark_id>
       <folder_id>J7</folder_id>
+      <modification_id>1.6 AMT (150 л.с.)</modification_id>
+      <complectation_name>Urban</complectation_name>
+      <unique_id>3441946</unique_id>
+      <body_type>Внедорожник 5 дв.</body_type>
+      <doors_count>5</doors_count>
+      <wheel>левый</wheel>
+      <engine_volume>1600</engine_volume>
+      <engine_type>Бензин</engine_type>
+      <engine_power>150 л.с.</engine_power>
+      <gearbox>Автомат робот</gearbox>
+      <drive>Передний</drive>
+      <nameplate />
+      <color>Черный</color>
+      <metallic>Да</metallic>
+      <extras />
+      <description />
+      <year>2024</year>
+      <registry_year>2024</registry_year>
+      <price>2959900</price>
+      <credit_discount>0</credit_discount>
+      <tradein_discount>0</tradein_discount>
+      <insurance_discount>0</insurance_discount>
+      <action>show</action>
+      <currency>RUR</currency>
+      <vin>LVVDB21B7RC117857</vin>
+      <availability>В наличии</availability>
+      <custom>Растаможен</custom>
+      <state>Отличное</state>
+      <owners_number>Не было владельцев</owners_number>
+      <run>0</run>
+      <contact_info>
+        <contact>
+          <name>Менеджер</name>
+          <phone>+7 (842) 228-37-05</phone>
+          <time>09:00-21:00</time>
+        </contact>
+      </contact_info>
+      <poi_id>г. Ульяновск, пр-т Нариманова, 128</poi_id>
+      <images>
+        <image>https://tradeins.space/uploads/photo/34558183/a8ab1f9ccf78ab7493d8e175b20e26df.jpg</image>
+        <image>https://tradeins.space/uploads/photo/34558184/442a9bbfa9a0f715bcbb6e9912341a2f.jpg</image>
+        <image>https://tradeins.space/uploads/photo/34558185/c65f53db0d80d4a1f9cf48c4f4ed39fe.jpg</image>
+        <image>https://tradeins.space/uploads/photo/34558186/be91232e66007ce6e255fc72b6862da1.jpg</image>
+        <image>https://tradeins.space/uploads/photo/34558187/c8924c1349c3675d8ee7fc393b9cd725.jpg</image>
+        <image>https://tradeins.space/uploads/photo/34558188/d5bffd16152b518fc963f508f7321f0a.jpg</image>
+        <image>https://tradeins.space/uploads/photo/34558189/d80f30f25ee515fa99a2b043292ff3af.jpg</image>
+        <image>https://tradeins.space/uploads/photo/34558190/f0034486ec1182ea570ce3e82aff8f4a.jpg</image>
+        <image>https://tradeins.space/uploads/photo/34558191/c57551b9cf67b4fe7be1b53a629249be.jpg</image>
+        <image>https://tradeins.space/uploads/photo/34558192/f76372a3383822bc9457343c822638a3.jpg</image>
+        <image>https://tradeins.space/uploads/photo/34558193/646627575309c5a03524e4767d71e29f.jpg</image>
+        <image>https://tradeins.space/uploads/photo/34558194/e79b7e72096b50eb6287d0ce173ca498.jpg</image>
+        <image>https://tradeins.space/uploads/photo/34558195/b401407b7acc9376b88e39374791be19.jpg</image>
+        <image>https://tradeins.space/uploads/photo/34558196/abc7bf082ff818abf80d2ef4a88c80e8.jpg</image>
+        <image>https://tradeins.space/uploads/photo/34558197/bc54018fa76164f7dbe713a2c157e93c.jpg</image>
+        <image>https://tradeins.space/uploads/photo/34558198/9f0ddad08087d2ff83975a9735e2d3f5.jpg</image>
+        <image>https://tradeins.space/uploads/photo/34558199/e4f93544d2d4f35bc999aa60468c80db.jpg</image>
+        <image>https://tradeins.space/uploads/photo/34558200/0d8ef13ff6f70657f73899a97e531d29.jpg</image>
+        <image>https://tradeins.space/uploads/photo/34558201/50138819ed692917330096c0405a1f22.jpg</image>
+        <image>https://tradeins.space/uploads/photo/34558202/e1bd81b5f501af19492cd885d7f50703.jpg</image>
+      </images>
+      <multiposting>
+        <classifieds>autoru</classifieds>
+      </multiposting>
+    <max_discount>0</max_discount><priceWithDiscount>2959900</priceWithDiscount><sale_price>2959900</sale_price><url>https://jaecoo-ulyanovsk.ru/cars/jaecoo-j7-16-amt-150-лс-urban-черный-2024/</url></car><car>
+      <mark_id>Jaecoo</mark_id>
+      <folder_id>J7</folder_id>
       <modification_id>1.6 AMT (150 л.с.) 4WD</modification_id>
       <complectation_name>Active 150</complectation_name>
       <unique_id>3441947</unique_id>
@@ -269,7 +584,7 @@
       <registry_year>2024</registry_year>
       <price>3589900</price>
       <credit_discount>0</credit_discount>
-      <tradein_discount>538485</tradein_discount>
+      <tradein_discount>0</tradein_discount>
       <insurance_discount>0</insurance_discount>
       <action>show</action>
       <currency>RUR</currency>
@@ -312,6 +627,259 @@
       <folder_id>J7</folder_id>
       <modification_id>1.6 AMT (150 л.с.) 4WD</modification_id>
       <complectation_name>Active 150</complectation_name>
+      <unique_id>3441948</unique_id>
+      <body_type>Внедорожник 5 дв.</body_type>
+      <doors_count>5</doors_count>
+      <wheel>левый</wheel>
+      <engine_volume>1600</engine_volume>
+      <engine_type>Бензин</engine_type>
+      <engine_power>150 л.с.</engine_power>
+      <gearbox>Автомат робот</gearbox>
+      <drive>Полный</drive>
+      <nameplate />
+      <color>Белый</color>
+      <metallic>Да</metallic>
+      <extras />
+      <description />
+      <year>2024</year>
+      <registry_year>2024</registry_year>
+      <price>3589900</price>
+      <credit_discount>0</credit_discount>
+      <tradein_discount>0</tradein_discount>
+      <insurance_discount>0</insurance_discount>
+      <action>show</action>
+      <currency>RUR</currency>
+      <vin>LVVDD21B7RC149007</vin>
+      <availability>В наличии</availability>
+      <custom>Растаможен</custom>
+      <state>Отличное</state>
+      <owners_number>Не было владельцев</owners_number>
+      <run>0</run>
+      <contact_info>
+        <contact>
+          <name>Менеджер</name>
+          <phone>+7 (842) 228-37-05</phone>
+          <time>09:00-21:00</time>
+        </contact>
+      </contact_info>
+      <poi_id>г. Ульяновск, пр-т Нариманова, 128</poi_id>
+      <images>
+        <image>https://tradeins.space/uploads/photo/34912314/036ba4515db6bef9d9a653d540791dae.jpg</image>
+        <image>https://tradeins.space/uploads/photo/34912315/3dabaf79435800f7ea6b777c59412dc3.jpg</image>
+        <image>https://tradeins.space/uploads/photo/34912316/5d0871e2a74c69ec5479074e4c17fc99.jpg</image>
+        <image>https://tradeins.space/uploads/photo/34912317/f7b6c0ed13deba5866f6bd2d4b2234e8.jpg</image>
+        <image>https://tradeins.space/uploads/photo/34912318/4fecd22dd4bdae371d1e2407f0893b95.jpg</image>
+        <image>https://tradeins.space/uploads/photo/34912319/b8193efaa883140904ead9414d0463cc.jpg</image>
+        <image>https://tradeins.space/uploads/photo/34912320/f80da8d36e310eed4312b349f84ff08b.jpg</image>
+        <image>https://tradeins.space/uploads/photo/34912321/22a7ac82cb6d0500b037cc442a0dca70.jpg</image>
+        <image>https://tradeins.space/uploads/photo/34912322/cb216d2856f8c573402409fe604d54c9.jpg</image>
+        <image>https://tradeins.space/uploads/photo/34912323/545dd445c7b5afcdca0f6d0ba9cc78e6.jpg</image>
+        <image>https://tradeins.space/uploads/photo/34912324/0bb109fd2dd8789ef46c2192f2d95037.jpg</image>
+        <image>https://tradeins.space/uploads/photo/34912325/8d124601cd178123c0089156ff7ed3b6.jpg</image>
+        <image>https://tradeins.space/uploads/photo/34912326/0fce1d8aa3a59c19ff3bab37844e46f9.jpg</image>
+        <image>https://tradeins.space/uploads/photo/34912327/bacead7424359fa4be08d0704c42d11b.jpg</image>
+        <image>https://tradeins.space/uploads/photo/34912328/812e192cb990e906dda7d99fe4e65b00.jpg</image>
+        <image>https://tradeins.space/uploads/photo/34912329/8dbce86f3e0df4d914aeb0177c9bfb2f.jpg</image>
+        <image>https://tradeins.space/uploads/photo/34912330/7c7d31dd5e32db0606f2b36e08fe03e3.jpg</image>
+        <image>https://tradeins.space/uploads/photo/34912331/90df8c281612bfc7f707055ac19f7883.jpg</image>
+        <image>https://tradeins.space/uploads/photo/34912332/3d5d1b9a7f911f02289db4907088a00c.jpg</image>
+        <image>https://tradeins.space/uploads/photo/34912333/82d7abf7ddac114585866d66e9b8403c.jpg</image>
+      </images>
+      <multiposting>
+        <classifieds>autoru</classifieds>
+      </multiposting>
+    <max_discount>0</max_discount><priceWithDiscount>3589900</priceWithDiscount><sale_price>3589900</sale_price><url>https://jaecoo-ulyanovsk.ru/cars/jaecoo-j7-16-amt-150-лс-4wd-active-150-белый-2024/</url></car><car>
+      <mark_id>Jaecoo</mark_id>
+      <folder_id>J7</folder_id>
+      <modification_id>1.6 AMT (186 л.с.)</modification_id>
+      <complectation_name>Ultimate</complectation_name>
+      <unique_id>3441949</unique_id>
+      <body_type>Внедорожник 5 дв.</body_type>
+      <doors_count>5</doors_count>
+      <wheel>левый</wheel>
+      <engine_volume>1600</engine_volume>
+      <engine_type>Бензин</engine_type>
+      <engine_power>186 л.с.</engine_power>
+      <gearbox>Автомат робот</gearbox>
+      <drive>Передний</drive>
+      <nameplate />
+      <color>Белый</color>
+      <metallic>Да</metallic>
+      <extras />
+      <description />
+      <year>2024</year>
+      <registry_year>2024</registry_year>
+      <price>3459900</price>
+      <credit_discount>0</credit_discount>
+      <tradein_discount>0</tradein_discount>
+      <insurance_discount>0</insurance_discount>
+      <action>show</action>
+      <currency>RUR</currency>
+      <vin>LVVDB21B2RC069300</vin>
+      <availability>В наличии</availability>
+      <custom>Растаможен</custom>
+      <state>Отличное</state>
+      <owners_number>Не было владельцев</owners_number>
+      <run>0</run>
+      <contact_info>
+        <contact>
+          <name>Менеджер</name>
+          <phone>+7 (842) 228-37-05</phone>
+          <time>09:00-21:00</time>
+        </contact>
+      </contact_info>
+      <poi_id>г. Ульяновск, пр-т Нариманова, 128</poi_id>
+      <images>
+        <image>https://tradeins.space/uploads/photo/34296569/dae5fab2f5f60dd0a139f3bb0426d3df.jpg</image>
+        <image>https://tradeins.space/uploads/photo/34296570/0013561b892b3ba43be019da05fa3aaa.jpg</image>
+        <image>https://tradeins.space/uploads/photo/34296571/67f72daf97b95c12a2cef11c2740f5c7.jpg</image>
+        <image>https://tradeins.space/uploads/photo/34296572/bdb598edfef1752e749ef22ba4d44d94.jpg</image>
+        <image>https://tradeins.space/uploads/photo/34296573/02a868cd1f8b1e86fbd99b7a3c8bb4c6.jpg</image>
+        <image>https://tradeins.space/uploads/photo/34296574/b0108b6a05b795c7910aecf1d3a888db.jpg</image>
+        <image>https://tradeins.space/uploads/photo/34296575/3c9fb43b4073b2444cda6f33f430fe2f.jpg</image>
+        <image>https://tradeins.space/uploads/photo/34296576/328f28fdb65044f6ea6d06fce29dc89a.jpg</image>
+        <image>https://tradeins.space/uploads/photo/34296577/221d22799e5cc5ebdaf51ad4aa3ef785.jpg</image>
+        <image>https://tradeins.space/uploads/photo/34296578/a370b131e03f2d5c294955abdae6a987.jpg</image>
+        <image>https://tradeins.space/uploads/photo/34296579/f81137b8a694327687a49644b80d27cc.jpg</image>
+        <image>https://tradeins.space/uploads/photo/34296580/58e648a8965fed54372bd648b97b67e9.jpg</image>
+        <image>https://tradeins.space/uploads/photo/34296581/d84e38c29436a8df49330844eb1abc3b.jpg</image>
+        <image>https://tradeins.space/uploads/photo/34296582/4ec17e6988e5dbac70ee03504a5a328a.jpg</image>
+        <image>https://tradeins.space/uploads/photo/34296583/1ead0d43f9ada647cb83fc536a846d9f.jpg</image>
+        <image>https://tradeins.space/uploads/photo/34296584/4c6ff43f729dbfe3814eee01f02ec00f.jpg</image>
+        <image>https://tradeins.space/uploads/photo/34296585/de29b009a336b4e33217f5d51d68d4b8.jpg</image>
+        <image>https://tradeins.space/uploads/photo/34296586/e9f4453bbc588d20a0bbd4b2eaffc0ff.jpg</image>
+      </images>
+      <multiposting>
+        <classifieds>autoru</classifieds>
+      </multiposting>
+    <max_discount>0</max_discount><priceWithDiscount>3459900</priceWithDiscount><sale_price>3459900</sale_price><url>https://jaecoo-ulyanovsk.ru/cars/jaecoo-j7-16-amt-186-лс-ultimate-белый-2024/</url></car><car>
+      <mark_id>Jaecoo</mark_id>
+      <folder_id>J7</folder_id>
+      <modification_id>1.6 AMT (150 л.с.)</modification_id>
+      <complectation_name>Urban</complectation_name>
+      <unique_id>3441950</unique_id>
+      <body_type>Внедорожник 5 дв.</body_type>
+      <doors_count>5</doors_count>
+      <wheel>левый</wheel>
+      <engine_volume>1600</engine_volume>
+      <engine_type>Бензин</engine_type>
+      <engine_power>150 л.с.</engine_power>
+      <gearbox>Автомат робот</gearbox>
+      <drive>Передний</drive>
+      <nameplate />
+      <color>Серебряный</color>
+      <metallic>Да</metallic>
+      <extras />
+      <description />
+      <year>2024</year>
+      <registry_year>2024</registry_year>
+      <price>2959900</price>
+      <credit_discount>0</credit_discount>
+      <tradein_discount>0</tradein_discount>
+      <insurance_discount>0</insurance_discount>
+      <action>show</action>
+      <currency>RUR</currency>
+      <vin>LVVDB21B0RC118784</vin>
+      <availability>В наличии</availability>
+      <custom>Растаможен</custom>
+      <state>Отличное</state>
+      <owners_number>Не было владельцев</owners_number>
+      <run>0</run>
+      <contact_info>
+        <contact>
+          <name>Менеджер</name>
+          <phone>+7 (842) 228-37-05</phone>
+          <time>09:00-21:00</time>
+        </contact>
+      </contact_info>
+      <poi_id>г. Ульяновск, пр-т Нариманова, 128</poi_id>
+      <images>
+        <image>https://tradeins.space/uploads/photo/34336898/0b3e6657af0d2835ae8e562084cbbb72.jpeg</image>
+        <image>https://tradeins.space/uploads/photo/34336899/10a89a5aa994473685f4aa11d7bbd68f.jpeg</image>
+        <image>https://tradeins.space/uploads/photo/34336900/62a8bf9f8b10b11fe85129d2b515b3fa.jpeg</image>
+        <image>https://tradeins.space/uploads/photo/34336901/c836dee8336803452e08228de50ce2d8.jpeg</image>
+        <image>https://tradeins.space/uploads/photo/34336902/1c67d28a91c82804a7c0914d00fa95d6.jpeg</image>
+        <image>https://tradeins.space/uploads/photo/34336903/f610bbb3b54552e1ddb320cf1c7a6381.jpeg</image>
+        <image>https://tradeins.space/uploads/photo/34336904/d3f75ad00f6ca2b90f3cbb9ae042dda9.jpeg</image>
+        <image>https://tradeins.space/uploads/photo/34336905/14e9bfbb8e6b8151bbb9de2a3adfedfb.jpeg</image>
+        <image>https://tradeins.space/uploads/photo/34336906/2fb7b6db0ad7052b0ecb91ba4cbe65d6.jpeg</image>
+        <image>https://tradeins.space/uploads/photo/34336907/ba7a16b25e82c1fda266026937be5567.jpg</image>
+        <image>https://tradeins.space/uploads/photo/34336908/f4da7cab89bdb1d1897fd7ecf56e4453.jpg</image>
+        <image>https://tradeins.space/uploads/photo/34336909/4765735cae3618976168a9d052ed7422.jpg</image>
+        <image>https://tradeins.space/uploads/photo/34336910/f566fe39ab3aa71815cdbb5b43a6813d.jpg</image>
+        <image>https://tradeins.space/uploads/photo/34336911/623cc658579e4f43939ed29ed086455f.jpg</image>
+        <image>https://tradeins.space/uploads/photo/34336912/efbe6aa94563542805b10756e047c155.jpg</image>
+      </images>
+      <multiposting>
+        <classifieds>autoru</classifieds>
+      </multiposting>
+    <max_discount>0</max_discount><priceWithDiscount>2959900</priceWithDiscount><sale_price>2959900</sale_price><url>https://jaecoo-ulyanovsk.ru/cars/jaecoo-j7-16-amt-150-лс-urban-серебряный-2024/</url></car><car>
+      <mark_id>Jaecoo</mark_id>
+      <folder_id>J8</folder_id>
+      <modification_id>2.0 AMT (249 л.с.) 4WD</modification_id>
+      <complectation_name>Supreme</complectation_name>
+      <unique_id>3441951</unique_id>
+      <body_type>Внедорожник 5 дв.</body_type>
+      <doors_count>5</doors_count>
+      <wheel>левый</wheel>
+      <engine_volume>2000</engine_volume>
+      <engine_type>Бензин</engine_type>
+      <engine_power>249 л.с.</engine_power>
+      <gearbox>Автомат робот</gearbox>
+      <drive>Полный</drive>
+      <nameplate />
+      <color>Черный</color>
+      <metallic>Да</metallic>
+      <extras />
+      <description />
+      <year>2024</year>
+      <registry_year>2024</registry_year>
+      <price>4999000</price>
+      <credit_discount>0</credit_discount>
+      <tradein_discount>0</tradein_discount>
+      <insurance_discount>0</insurance_discount>
+      <action>show</action>
+      <currency>RUR</currency>
+      <vin>LVVDD21B8RC147847</vin>
+      <availability>В наличии</availability>
+      <custom>Растаможен</custom>
+      <state>Отличное</state>
+      <owners_number>Не было владельцев</owners_number>
+      <run>0</run>
+      <contact_info>
+        <contact>
+          <name>Менеджер</name>
+          <phone>+7 (842) 228-37-05</phone>
+          <time>09:00-21:00</time>
+        </contact>
+      </contact_info>
+      <poi_id>г. Ульяновск, пр-т Нариманова, 128</poi_id>
+      <images>
+        <image>https://tradeins.space/uploads/photo/34296093/a4be3920beed4418e97e7d49fc170186.jpg</image>
+        <image>https://tradeins.space/uploads/photo/34296094/1085d03e3d1b49df1ec1e3d10a9108e2.jpg</image>
+        <image>https://tradeins.space/uploads/photo/34296095/b19b6a967b6a94f0de7a4ecebfb6de6c.jpg</image>
+        <image>https://tradeins.space/uploads/photo/34296096/bd709c3ca0d27906d6a13d2b36d11281.jpg</image>
+        <image>https://tradeins.space/uploads/photo/34296097/68ebb11d2a5ebbbac5269e8f7e106453.jpg</image>
+        <image>https://tradeins.space/uploads/photo/34296098/f602ed795655e5dcd69183460c78e09e.jpg</image>
+        <image>https://tradeins.space/uploads/photo/34296099/b4ba6b3381ad45a92cca321e6f9ac0e3.jpg</image>
+        <image>https://tradeins.space/uploads/photo/34296100/8a232d38f26754aed042c374375b86a0.jpg</image>
+        <image>https://tradeins.space/uploads/photo/34296101/d56eae1602e5d2d50acb12f83d06e90e.jpg</image>
+        <image>https://tradeins.space/uploads/photo/34296102/470f16b723dd244ec963bb32993cffbb.jpg</image>
+        <image>https://tradeins.space/uploads/photo/34296103/799b412569f1d3ab14dcf33df147e27e.jpg</image>
+        <image>https://tradeins.space/uploads/photo/34296104/9db7566f7dafd6d21afbc8a1b30abc8c.jpg</image>
+        <image>https://tradeins.space/uploads/photo/34296105/4ebe3ffb9c77655573fa1fb300e06d26.jpg</image>
+        <image>https://tradeins.space/uploads/photo/34296106/6706033b53783228e0d9131b9a880f9d.jpg</image>
+        <image>https://tradeins.space/uploads/photo/34296107/649d3be3153c751e555cfc51d1cfdd5f.jpg</image>
+        <image>https://tradeins.space/uploads/photo/34296108/44f2d4a3c809d420363de012caaa6de4.jpg</image>
+      </images>
+      <multiposting>
+        <classifieds>autoru</classifieds>
+      </multiposting>
+    <max_discount>0</max_discount><priceWithDiscount>4999000</priceWithDiscount><sale_price>4999000</sale_price><url>https://jaecoo-ulyanovsk.ru/cars/jaecoo-j8-20-amt-249-лс-4wd-supreme-черный-2024/</url></car><car>
+      <mark_id>Jaecoo</mark_id>
+      <folder_id>J7</folder_id>
+      <modification_id>1.6 AMT (150 л.с.) 4WD</modification_id>
+      <complectation_name>Active 150</complectation_name>
       <unique_id>3441952</unique_id>
       <body_type>Внедорожник 5 дв.</body_type>
       <doors_count>5</doors_count>
@@ -330,7 +898,7 @@
       <registry_year>2024</registry_year>
       <price>3589900</price>
       <credit_discount>0</credit_discount>
-      <tradein_discount>538485</tradein_discount>
+      <tradein_discount>0</tradein_discount>
       <insurance_discount>0</insurance_discount>
       <action>show</action>
       <currency>RUR</currency>
@@ -374,28 +942,28 @@
       </multiposting>
     <max_discount>0</max_discount><priceWithDiscount>3589900</priceWithDiscount><sale_price>3589900</sale_price><url>https://jaecoo-ulyanovsk.ru/cars/jaecoo-j7-16-amt-150-лс-4wd-active-150-серебряный-2024/</url></car><car>
       <mark_id>Jaecoo</mark_id>
-      <folder_id>J8</folder_id>
-      <modification_id>2.0 AMT (249 л.с.) 4WD</modification_id>
+      <folder_id>J7</folder_id>
+      <modification_id>1.6 AMT (186 л.с.) 4WD</modification_id>
       <complectation_name>Active</complectation_name>
       <unique_id>3441953</unique_id>
       <body_type>Внедорожник 5 дв.</body_type>
       <doors_count>5</doors_count>
       <wheel>левый</wheel>
-      <engine_volume>2000</engine_volume>
+      <engine_volume>1600</engine_volume>
       <engine_type>Бензин</engine_type>
-      <engine_power>249 л.с.</engine_power>
+      <engine_power>186 л.с.</engine_power>
       <gearbox>Автомат робот</gearbox>
       <drive>Полный</drive>
       <nameplate />
       <color>Серебряный</color>
-      <metallic>Нет</metallic>
+      <metallic>Да</metallic>
       <extras />
       <description />
       <year>2024</year>
       <registry_year>2024</registry_year>
-      <price>4599000</price>
+      <price>3589900</price>
       <credit_discount>0</credit_discount>
-      <tradein_discount>500000</tradein_discount>
+      <tradein_discount>0</tradein_discount>
       <insurance_discount>0</insurance_discount>
       <action>show</action>
       <currency>RUR</currency>
@@ -430,12 +998,12 @@
       <multiposting>
         <classifieds>autoru</classifieds>
       </multiposting>
-    <max_discount>0</max_discount><priceWithDiscount>4599000</priceWithDiscount><sale_price>4599000</sale_price><url>https://jaecoo-ulyanovsk.ru/cars/jaecoo-j8-20-amt-249-лс-4wd-active-серебряный-2024/</url></car><car>
+    <max_discount>0</max_discount><priceWithDiscount>3589900</priceWithDiscount><sale_price>3589900</sale_price><url>https://jaecoo-ulyanovsk.ru/cars/jaecoo-j7-16-amt-186-лс-4wd-active-серебряный-2024/</url></car><car>
       <mark_id>Jaecoo</mark_id>
       <folder_id>J7</folder_id>
       <modification_id>1.6 AMT (186 л.с.)</modification_id>
       <complectation_name>Lifestyle</complectation_name>
-      <unique_id>3465106</unique_id>
+      <unique_id>3441954</unique_id>
       <body_type>Внедорожник 5 дв.</body_type>
       <doors_count>5</doors_count>
       <wheel>левый</wheel>
@@ -453,11 +1021,11 @@
       <registry_year>2024</registry_year>
       <price>3209900</price>
       <credit_discount>0</credit_discount>
-      <tradein_discount>445500</tradein_discount>
+      <tradein_discount>0</tradein_discount>
       <insurance_discount>0</insurance_discount>
       <action>show</action>
       <currency>RUR</currency>
-      <vin>LVVDB21B0RC078383</vin>
+      <vin>LVVDB21B3RC078958</vin>
       <availability>В наличии</availability>
       <custom>Растаможен</custom>
       <state>Отличное</state>
@@ -472,36 +1040,105 @@
       </contact_info>
       <poi_id>г. Ульяновск, пр-т Нариманова, 128</poi_id>
       <images>
-        <image>https://tradeins.space/uploads/photo/34911936/eda276ad172df3c7eba60b9bbf3c38e0.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34911937/6c30206cba8df94ead731f3c4b1a1e13.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34911938/b6c7ff8cfc06ad35a7ca0c25b08afc9b.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34911939/76b39740465f32f897e59fbb40e24a59.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34911940/01e58ec943e27f19e78483ed3e6982a6.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34911941/1a7983978c1c2936dc8e2257de991817.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34911942/0bc24a4819862776b17360a695798169.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34911943/f86bffe2ad5b48c25c636c01f0f01b0c.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34911944/a8fcb808fd8b9e0535a966ce4cbd824f.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34911945/8f78f16fe592481c5b885465f6340e2f.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34911946/1b4b4d3bae481f4bf5539bb77b9b460c.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34911947/7e3486ae78ecc0a5c452d11fc4770af8.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34911948/d5dcc50a262c3c796229d93790c2d3e4.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34911949/67c3f51626f246acaaccc855a03bafe2.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34911950/4bff214d54e9903dde2b86c097e67ce1.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34911951/cb6d726887deffdfd0727b9f5485a0ad.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34911952/ba47a7902d8556bb9c65b5c97625b843.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34911953/8373e55802bb24c39d98d925c9efd2cd.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34911954/b68bf46023bd0e839c603150dbe2f1b4.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34911955/82d14d361bbf0f52e14516bd3553a40d.jpg</image>
+        <image>https://tradeins.space/uploads/photo/34911893/e885270e7bfae0d6820761a40d6e0e8f.jpg</image>
+        <image>https://tradeins.space/uploads/photo/34911894/f79ecf5f799be297f3c01ed3906efd10.jpg</image>
+        <image>https://tradeins.space/uploads/photo/34911895/59dcced53754ed471889d6edc1a65b03.jpg</image>
+        <image>https://tradeins.space/uploads/photo/34911896/e3bc1497383999a444ff142a7b242614.jpg</image>
+        <image>https://tradeins.space/uploads/photo/34911897/91447be027ec35067325448ca4b6d015.jpg</image>
+        <image>https://tradeins.space/uploads/photo/34911898/51acecd94c745f3d15cfaac749ea86c0.jpg</image>
+        <image>https://tradeins.space/uploads/photo/34911899/71916d4fb04e02bfb29bc3c9dcf5f8ee.jpg</image>
+        <image>https://tradeins.space/uploads/photo/34911900/ff6b3346fec98d45b1dc24ffac5cc461.jpg</image>
+        <image>https://tradeins.space/uploads/photo/34911901/096aa4ce727fbb9173485dd6d92b5f0c.jpg</image>
+        <image>https://tradeins.space/uploads/photo/34911902/eb1b02ece89580b6f638c81926a47043.jpg</image>
+        <image>https://tradeins.space/uploads/photo/34911903/7c652de3267e1ae01bbc666720abe571.jpg</image>
+        <image>https://tradeins.space/uploads/photo/34911904/1d73d913fa9a4469a717b49edce800d5.jpg</image>
+        <image>https://tradeins.space/uploads/photo/34911905/e7fa0b2fde19253f59f83705a061a5fe.jpg</image>
+        <image>https://tradeins.space/uploads/photo/34911906/010cf96252489dc564f68f51e7988942.jpg</image>
+        <image>https://tradeins.space/uploads/photo/34911907/1d255e17f845da79d798313ef129d949.jpg</image>
+        <image>https://tradeins.space/uploads/photo/34911908/b8ce438f359f4990919b8db80be5948b.jpg</image>
+        <image>https://tradeins.space/uploads/photo/34911909/5d09e16da0381189ef983919e546a9b8.jpg</image>
+        <image>https://tradeins.space/uploads/photo/34911910/97725d2b3d85aeabcbdaf6b1f76aedd7.jpg</image>
+        <image>https://tradeins.space/uploads/photo/34911911/d8fb03505df226e97e3dd4023058141e.jpg</image>
       </images>
       <multiposting>
         <classifieds>autoru</classifieds>
       </multiposting>
     <max_discount>0</max_discount><priceWithDiscount>3209900</priceWithDiscount><sale_price>3209900</sale_price><url>https://jaecoo-ulyanovsk.ru/cars/jaecoo-j7-16-amt-186-лс-lifestyle-серебряный-2024/</url></car><car>
       <mark_id>Jaecoo</mark_id>
+      <folder_id>J8</folder_id>
+      <modification_id>2.0 AMT (249 л.с.) 4WD</modification_id>
+      <complectation_name>Supreme</complectation_name>
+      <unique_id>3441955</unique_id>
+      <body_type>Внедорожник 5 дв.</body_type>
+      <doors_count>5</doors_count>
+      <wheel>левый</wheel>
+      <engine_volume>2000</engine_volume>
+      <engine_type>Бензин</engine_type>
+      <engine_power>249 л.с.</engine_power>
+      <gearbox>Автомат робот</gearbox>
+      <drive>Полный</drive>
+      <nameplate />
+      <color>Белый</color>
+      <metallic>Да</metallic>
+      <extras />
+      <description />
+      <year>2024</year>
+      <registry_year>2024</registry_year>
+      <price>4999000</price>
+      <credit_discount>0</credit_discount>
+      <tradein_discount>0</tradein_discount>
+      <insurance_discount>0</insurance_discount>
+      <action>show</action>
+      <currency>RUR</currency>
+      <vin>LVTDD24B6RD682478</vin>
+      <availability>В наличии</availability>
+      <custom>Растаможен</custom>
+      <state>Отличное</state>
+      <owners_number>Не было владельцев</owners_number>
+      <run>0</run>
+      <contact_info>
+        <contact>
+          <name>Менеджер</name>
+          <phone>+7 (842) 228-37-05</phone>
+          <time>09:00-21:00</time>
+        </contact>
+      </contact_info>
+      <poi_id>г. Ульяновск, пр-т Нариманова, 128</poi_id>
+      <images>
+        <image>https://tradeins.space/uploads/photo/34558397/6e2ee208df8498d3f86643f63f9fd239.jpg</image>
+        <image>https://tradeins.space/uploads/photo/34558398/f568eb333f9f69d04c7574a2521cddea.jpg</image>
+        <image>https://tradeins.space/uploads/photo/34558399/e22523458707dd8912a0b8a03e8c1b0a.jpg</image>
+        <image>https://tradeins.space/uploads/photo/34558400/d69eaa04311531e084a8db5a8a352621.jpg</image>
+        <image>https://tradeins.space/uploads/photo/34558401/cd9f22d1f37bfde48e55ad140524c684.jpg</image>
+        <image>https://tradeins.space/uploads/photo/34558402/a4ca72c1e5f35a4645501d70ac3901d3.jpg</image>
+        <image>https://tradeins.space/uploads/photo/34558403/04a7a17a33fe59153397564dfb87ea52.jpg</image>
+        <image>https://tradeins.space/uploads/photo/34558404/a6e7bcbf41f973771da5d68df00a9199.jpg</image>
+        <image>https://tradeins.space/uploads/photo/34558405/5d9321f9c7904a3079c60a03a96e932e.jpg</image>
+        <image>https://tradeins.space/uploads/photo/34558406/db1a3fd2dafbe6191159fb5469eee2a2.jpg</image>
+        <image>https://tradeins.space/uploads/photo/34558407/f1f5e991a851ddd372a3da2015d361c3.jpg</image>
+        <image>https://tradeins.space/uploads/photo/34558408/a3422670bf12e30bf85a7efe7e45a577.jpg</image>
+        <image>https://tradeins.space/uploads/photo/34558409/2bc1ede818b6bebad8cce7e64f52be23.jpg</image>
+        <image>https://tradeins.space/uploads/photo/34558410/159bb5750aadc330975b7c67f30a98bc.jpg</image>
+        <image>https://tradeins.space/uploads/photo/34558411/fe8d808289002af053208bf5a7172390.jpg</image>
+        <image>https://tradeins.space/uploads/photo/34558412/5c872f1600b4b32b3a36c4083b8e3113.jpg</image>
+        <image>https://tradeins.space/uploads/photo/34558413/e304ad804923292ce120e52b8e436c7d.jpg</image>
+        <image>https://tradeins.space/uploads/photo/34558414/14ea00f04f8b7049d9011068c2c435c7.jpg</image>
+        <image>https://tradeins.space/uploads/photo/34558415/34aace47edf656348fea9377ef0ad535.jpg</image>
+        <image>https://tradeins.space/uploads/photo/34558416/97736966b100a43e79552a44ceb1f458.jpg</image>
+        <image>https://tradeins.space/uploads/photo/34558417/c57d1d652e3b2bfbc5d4b9e4f6dd9db5.jpg</image>
+        <image>https://tradeins.space/uploads/photo/34558418/e369ba643f9f342fff4fa70e0616ef83.jpg</image>
+        <image>https://tradeins.space/uploads/photo/34558419/6d31c45937658e9ddc43a653672d4480.jpg</image>
+        <image>https://tradeins.space/uploads/photo/34558420/ce1302aa42681a4aed315d74b2e93401.jpg</image>
+      </images>
+      <multiposting>
+        <classifieds>autoru</classifieds>
+      </multiposting>
+    <max_discount>0</max_discount><priceWithDiscount>4999000</priceWithDiscount><sale_price>4999000</sale_price><url>https://jaecoo-ulyanovsk.ru/cars/jaecoo-j8-20-amt-249-лс-4wd-supreme-белый-2024/</url></car><car>
+      <mark_id>Jaecoo</mark_id>
       <folder_id>J7</folder_id>
       <modification_id>1.6 AMT (186 л.с.)</modification_id>
-      <complectation_name>Lifestyle</complectation_name>
-      <unique_id>3465107</unique_id>
+      <complectation_name>Ultimate</complectation_name>
+      <unique_id>3441959</unique_id>
       <body_type>Внедорожник 5 дв.</body_type>
       <doors_count>5</doors_count>
       <wheel>левый</wheel>
@@ -511,19 +1148,19 @@
       <gearbox>Автомат робот</gearbox>
       <drive>Передний</drive>
       <nameplate />
-      <color>Черный</color>
+      <color>Зеленый</color>
       <metallic>Да</metallic>
       <extras />
       <description />
       <year>2024</year>
       <registry_year>2024</registry_year>
-      <price>3209900</price>
+      <price>3459900</price>
       <credit_discount>0</credit_discount>
-      <tradein_discount>445500</tradein_discount>
+      <tradein_discount>0</tradein_discount>
       <insurance_discount>0</insurance_discount>
       <action>show</action>
       <currency>RUR</currency>
-      <vin>LVVDB21B1RC078828</vin>
+      <vin>LVVDB21B5RC061174</vin>
       <availability>В наличии</availability>
       <custom>Растаможен</custom>
       <state>Отличное</state>
@@ -538,142 +1175,28 @@
       </contact_info>
       <poi_id>г. Ульяновск, пр-т Нариманова, 128</poi_id>
       <images>
-        <image>https://tradeins.space/uploads/photo/34827197/1f979700da4dc081397ff8d6b87ae875.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34827198/380d25cddf9b3c0187fa4e69fa9296ac.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34827199/8446393d7b00390565b20d4d37bcaa8f.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34827200/74e2fd74b5b818b05efd2d93b1426217.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34827201/c878802caf84f36a23e50de91a30eb86.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34827202/c91fa1f843d30f0eac3fea6f1e5d07cc.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34827203/9b16597e485aed920a7177f51e2dc230.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34827204/aa63963c7968afa780805470f92dbc7e.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34827205/4601127b8c34049d1e58c0e65ab9d651.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34827206/10a777bba95f794ca5db41a448bfbc4f.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34827207/86317b0b9c97f279739ee5c06e4fed7e.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34827208/4be2ab30dfc24f462218e947c1cb8813.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34827209/2f65abd55505e6abf94122b272523703.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34827210/f8c9d92ea6c1fcc436fbd4730ee5cfc0.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34827211/d4e525acfc2088685746d93e3940ee72.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34827212/c5bcabbe9b6c584cf477f491e87f3b06.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34827213/76735b9fedf78403811807e374f92283.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34827214/7d3987308e05d4f7bc96f75ed0df853a.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34827215/680a06938ae832195aa19c952597fdbf.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34827216/55d1e578018859b86fc82c4ed1e325ba.jpg</image>
+        <image>https://tradeins.space/uploads/photo/34525597/9d2fd3300f87a08c9f69f1602137ecec.jpeg</image>
+        <image>https://tradeins.space/uploads/photo/34525598/45bf2a124aa159659ac44ab032664160.jpeg</image>
+        <image>https://tradeins.space/uploads/photo/34525599/f4edc678e6fcc45fd18ef6bd4c978a42.jpeg</image>
+        <image>https://tradeins.space/uploads/photo/34525600/575ca05cda387276ed44ba25f1960506.jpeg</image>
+        <image>https://tradeins.space/uploads/photo/34525601/cf095b64e8dbd2379852574f2e244c2d.jpeg</image>
+        <image>https://tradeins.space/uploads/photo/34525602/77834d78a55af25d2e628730fc47907a.jpeg</image>
+        <image>https://tradeins.space/uploads/photo/34525603/8cdd346dd17c4ed2894c462f71ca4fe0.jpeg</image>
+        <image>https://tradeins.space/uploads/photo/34525604/c842e4786a35d5cc05259554f1f6fb2c.jpeg</image>
+        <image>https://tradeins.space/uploads/photo/34525605/921fff722ecea9c13e16919712003133.jpeg</image>
+        <image>https://tradeins.space/uploads/photo/34525606/a2b67029ce0aaad4b437e3797eba452c.jpg</image>
+        <image>https://tradeins.space/uploads/photo/34525607/6e1f8ef441741c5e287e0b10d9e7115b.jpeg</image>
+        <image>https://tradeins.space/uploads/photo/34525608/8a9a368532ba2191228be69389e86640.jpg</image>
+        <image>https://tradeins.space/uploads/photo/34525609/1f177292ef1e8570a5d9902d8a306c00.jpg</image>
+        <image>https://tradeins.space/uploads/photo/34525610/3cbccbf5a58a881d87a0b77f8c62ab57.jpg</image>
+        <image>https://tradeins.space/uploads/photo/34525611/cb3f6108224a128bd92fcaebef2eee8b.jpg</image>
+        <image>https://tradeins.space/uploads/photo/34525612/b57877d0540fdd9e0e7e7ee9e52426e1.jpeg</image>
+        <image>https://tradeins.space/uploads/photo/34525613/1266b8eeefca3cacc37b4714f1ee031a.jpg</image>
+        <image>https://tradeins.space/uploads/photo/34525614/59307eebce6a1d05cdfcc7167104eafd.jpg</image>
       </images>
       <multiposting>
         <classifieds>autoru</classifieds>
       </multiposting>
-    <max_discount>0</max_discount><priceWithDiscount>3209900</priceWithDiscount><sale_price>3209900</sale_price><url>https://jaecoo-ulyanovsk.ru/cars/jaecoo-j7-16-amt-186-лс-lifestyle-черный-2024/</url></car><car>
-      <mark_id>Jaecoo</mark_id>
-      <folder_id>J7</folder_id>
-      <modification_id>1.6 AMT (150 л.с.)</modification_id>
-      <complectation_name>Urban</complectation_name>
-      <unique_id>3465109</unique_id>
-      <body_type>Внедорожник 5 дв.</body_type>
-      <doors_count>5</doors_count>
-      <wheel>левый</wheel>
-      <engine_volume>1600</engine_volume>
-      <engine_type>Бензин</engine_type>
-      <engine_power>150 л.с.</engine_power>
-      <gearbox>Автомат робот</gearbox>
-      <drive>Передний</drive>
-      <nameplate />
-      <color>Белый</color>
-      <metallic>Да</metallic>
-      <extras />
-      <description />
-      <year>2024</year>
-      <registry_year>2024</registry_year>
-      <price>2959900</price>
-      <credit_discount>0</credit_discount>
-      <tradein_discount>443985</tradein_discount>
-      <insurance_discount>0</insurance_discount>
-      <action>show</action>
-      <currency>RUR</currency>
-      <vin>LVVDB21B7RC100430</vin>
-      <availability>В наличии</availability>
-      <custom>Растаможен</custom>
-      <state>Отличное</state>
-      <owners_number>Не было владельцев</owners_number>
-      <run>0</run>
-      <contact_info>
-        <contact>
-          <name>Менеджер</name>
-          <phone>+7 (842) 228-37-05</phone>
-          <time>09:00-21:00</time>
-        </contact>
-      </contact_info>
-      <poi_id>г. Ульяновск, пр-т Нариманова, 128</poi_id>
-      <images>
-        <image>https://tradeins.space/uploads/photo/34827100/4941c8c910f16546147d822f79750aca.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34827101/d956efe38d1a71fa0db5e90391093aad.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34827102/4031f529b9bd73714436ab4b854fa413.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34827103/4c7d80a60bcae143ec85e3190aec7994.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34827104/61d056a5c865868cdb386b677b8e7e06.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34827105/2af858d2ba06bac1d50c10b06d2387f3.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34827106/0bfdae46c3534e2fa6e61c3ce2e6f36f.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34827107/6dcf74f4b7ebecd298438a9b4a65aeae.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34827108/1906639a7d0239d5531477098446ebda.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34827109/912371eb0ea10020d3e77f4849b6e68a.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34827110/599bc29c23b2ea673a23495d58aab574.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34827111/57629ead8f0ffb0cb8a169ac31aeca0b.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34827112/c0ca64f579f90343dc39a6a6fc5c8a0b.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34827113/ea91c7123ff3193cbfea6fbde82ca61c.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34827114/aac28f278c95fb080bc75ddef7c407a8.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34827115/6812d81a5b35444a1b93f45627b6afe0.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34827116/42c828fac69b6329ed13f09c89948d69.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34827117/58177b94fd38dbb77db2e7e001a8ae0c.jpg</image>
-        <image>https://tradeins.space/uploads/photo/34827118/79001da1212b65d2a11e71839dfffba3.jpg</image>
-      </images>
-      <multiposting>
-        <classifieds>autoru</classifieds>
-      </multiposting>
-    <max_discount>0</max_discount><priceWithDiscount>2959900</priceWithDiscount><sale_price>2959900</sale_price><url>https://jaecoo-ulyanovsk.ru/cars/jaecoo-j7-16-amt-150-лс-urban-белый-2024/</url></car><car>
-      <mark_id>Jaecoo</mark_id>
-      <folder_id>J7</folder_id>
-      <modification_id>1.6 AMT (150 л.с.)</modification_id>
-      <complectation_name>Urban</complectation_name>
-      <unique_id>3473369</unique_id>
-      <body_type>Внедорожник 5 дв.</body_type>
-      <doors_count>5</doors_count>
-      <wheel>левый</wheel>
-      <engine_volume>1600</engine_volume>
-      <engine_type>Бензин</engine_type>
-      <engine_power>150 л.с.</engine_power>
-      <gearbox>Автомат робот</gearbox>
-      <drive>Передний</drive>
-      <nameplate />
-      <color>Серый</color>
-      <metallic>Да</metallic>
-      <extras />
-      <description />
-      <year>2024</year>
-      <registry_year>2024</registry_year>
-      <price>2959900</price>
-      <credit_discount>0</credit_discount>
-      <tradein_discount>443985</tradein_discount>
-      <insurance_discount>0</insurance_discount>
-      <action>show</action>
-      <currency>RUR</currency>
-      <vin>LVVDB21B4RC100319</vin>
-      <availability>В наличии</availability>
-      <custom>Растаможен</custom>
-      <state>Отличное</state>
-      <owners_number>Не было владельцев</owners_number>
-      <run>0</run>
-      <contact_info>
-        <contact>
-          <name>Менеджер</name>
-          <phone>+7 (842) 228-37-05</phone>
-          <time>09:00-21:00</time>
-        </contact>
-      </contact_info>
-      <poi_id>г. Ульяновск, пр-т Нариманова, 128</poi_id>
-      <images>
-        <image>https://tradeins.space/uploads/photo/29894125/cf3f75ceb9f7544434d4d3346488e6dc.png</image>
-      </images>
-      <multiposting>
-        <classifieds>autoru</classifieds>
-      </multiposting>
-    <max_discount>0</max_discount><priceWithDiscount>2959900</priceWithDiscount><sale_price>2959900</sale_price><url>https://jaecoo-ulyanovsk.ru/cars/jaecoo-j7-16-amt-150-лс-urban-серый-2024/</url></car>
+    <max_discount>0</max_discount><priceWithDiscount>3459900</priceWithDiscount><sale_price>3459900</sale_price><url>https://jaecoo-ulyanovsk.ru/cars/jaecoo-j7-16-amt-186-лс-ultimate-зеленый-2024/</url></car>
 </cars>
 </data>
